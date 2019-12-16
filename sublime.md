@@ -1,5 +1,5 @@
 {
-    "font_size":18,
+    "font_size":26,
     "font_face":"Monaco",
      // The number of spaces a tab is considered equal to
     "tab_size": 4,
@@ -12,6 +12,8 @@
     "trim_trailing_white_space_on_save":true,
     "ensure_newline_at_eof_on_save":true,
     "highlight_line":true,
-    "ignored_packages":[]
+    "ignored_packages":[],
+    "markdown_live_preview_on_open":true,
+    "word_wrap": true,
+    "save_on_focus_lost":true
 }
-
