@@ -2,6 +2,7 @@
 	s = status
 	c = checkout
 	cam = commit -a -m
+	co = commit -m
 	b = branch
 	br = branch -r
     pl = pull
