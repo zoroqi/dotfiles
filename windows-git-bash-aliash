@@ -1,0 +1,6 @@
+# 快速打开文件夹
+alias o='start .'
+
+alias dus='du -sh'
+alias dud='du -h -d'
+
