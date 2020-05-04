@@ -47,7 +47,7 @@ hostname_color=%(!.$hostname_root_color.$hostname_normal_color)
 local current_dir_color=$blue
 local username_command="%n"
 local hostname_command="%m"
-local current_dir="%~"
+local current_dir="%4~"
 
 local username_output="%(!..$username_normal_color$username_command$reset@)"
 local hostname_output="$hostname_color$hostname_command$reset"
