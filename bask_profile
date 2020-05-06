@@ -1,0 +1,8 @@
+source ~/.alias
+source ~/my_sh/config/mac.sh
+source ~/my_sh/dotfiles/gorc
+
+export JAVA_HOME=~/pkg/java/home
+export MAVEN_PATH=~/my_sh/maven
+export GRADLE_PATH=~/my_sh/gradle
+export PATH=$MAVEN_PATH/bin:$GRADLE_PATH/bin:$PAT
