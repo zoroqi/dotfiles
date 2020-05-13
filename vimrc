@@ -122,13 +122,14 @@ nmap <leader>l :set list!<CR>
 
 " http://vimcasts.org/episodes/tabs-and-spaces/
 " To insert space characters whenever the tab key is pressed
-:set expandtab
+set expandtab
 " the number of space characters that will be inserted
 " when the tab key is pressed
-:set tabstop=4
+set tabstop=4
 " delete by tab
-:set softtabstop=4
+set softtabstop=4
+set so=3
 " change the number of space characters inserted for indentation
-:set shiftwidth=4
+set shiftwidth=4
 
 
