@@ -131,4 +131,3 @@ nmap <leader>l :set list!<CR>
 " change the number of space characters inserted for indentation
 :set shiftwidth=4
 
-
