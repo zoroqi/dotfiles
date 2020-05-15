@@ -11,6 +11,8 @@
 	lgn = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%ad) %C(bold blue)<%an>%Creset' --abbrev-commit -n
 	lgns = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%ad) %C(bold blue)<%an>%Creset' --abbrev-commit --stat -n
 	r = remote -v
+    d = diff
+    dt = difftool
 [user]
 	name = zoroqi
 	email = zhangqi560832@gmail.com
