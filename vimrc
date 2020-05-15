@@ -132,4 +132,3 @@ set so=3
 " change the number of space characters inserted for indentation
 set shiftwidth=4
 
-
