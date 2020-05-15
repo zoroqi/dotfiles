@@ -16,3 +16,9 @@
 	email = zhangqi560832@gmail.com
 [core]
 	quotepath = false
+[core]
+	quotepath = false
+[diff]
+	tool = vimdiff
+[difftool]
+	prompt = No
