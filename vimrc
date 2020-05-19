@@ -63,7 +63,7 @@ set history=200
 " Make the command-line completion better
 set wildmenu
 
-:let mapleader = ","
+let mapleader = ","
 
 " Show the current command in the lower right corner
 set showcmd
@@ -131,4 +131,4 @@ set softtabstop=4
 set so=3
 " change the number of space characters inserted for indentation
 set shiftwidth=4
-
+set so=5
