@@ -1,8 +1,6 @@
 alias dus='du -sh'
 alias dud='du -h -d'
 alias d='open -a "IntelliJ IDEA.app" .'
-alias goland='open -a "GoLand.app" .'
-alias stopall='open /Users/wuming/my_sh/stop.app'
 alias sub='open -a "Sublime Text.app" '
 alias typora='open -a "Typora.app" '
 alias o='open .'
