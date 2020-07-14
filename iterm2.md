@@ -14,6 +14,6 @@ Keys:
 action选择:Send Escape Sequence
 ```
 
-## Session
+## Profiles Session
 
 勾选`Status bar enable`显示系统状态
