@@ -2,7 +2,7 @@
 <opml version="1.0">
     <head>
         <title>Vienna Subscriptions</title>
-        <dateCreated>2020-08-20 13:49:22 +0000</dateCreated>
+        <dateCreated>2020-08-21 04:57:01 +0000</dateCreated>
     </head>
     <body>
         <outline htmlUrl="https://engineering.fb.com" xmlUrl="https://engineering.fb.com/feed/" type="rss" description="Facebook Engineering Blog" text="Facebook Engineering"/>
@@ -10,10 +10,7 @@
         <outline htmlUrl="http://www.ruanyifeng.com/blog/" xmlUrl="http://feeds.feedburner.com/ruanyifeng" type="rss" description="Ruan YiFeng's Blog" text="阮一峰的网络日志"/>
         <outline htmlUrl="http://www.ftchinese.com/" xmlUrl="http://www.ftchinese.com/rss/feed" type="rss" description="FT中文网每日新闻" text="FT中文网_英国《金融时报》(Financial Times)"/>
         <outline htmlUrl="https://www.hankcs.com" xmlUrl="http://www.hankcs.com/feed/" type="rss" description="自然语言处理、机器学习算法" text="码农场"/>
-        <outline htmlUrl="https://wanqu.co/issues/1359?s=rss" xmlUrl="https://wanqu.co/feed/" type="rss" description="
-            今天是湾区日报运营第2206天，阅读本期所有文章需60分钟。
-            
-        " text="湾区日报第1214期 2018/07/20"/>
+        <outline htmlUrl="https://wanqu.co/issues/1359?s=rss" xmlUrl="https://wanqu.co/feed/" type="rss" description="今天是湾区日报运营第2206天，阅读本期所有文章需60分钟。" text="湾区日报第1214期 2018/07/20"/>
         <outline htmlUrl="http://www.norvig.com" xmlUrl="http://norvig.com/rss-feed.xml" type="rss" description="Articles by Peter Norvig" text="Peter Norvig"/>
         <outline htmlUrl="http://www.socialysis.org" xmlUrl="http://socialysis.org/rss/roll.xml" type="rss" description="" text="社区网络分析开源平台"/>
         <outline htmlUrl="http://www.dgtle.com" xmlUrl="http://www.dgtle.com/rss/dgtle.xml" type="rss" description="分享美好数字生活" text="数字尾巴"/>
@@ -48,6 +45,8 @@
         <outline htmlUrl="https://xargin.com/" xmlUrl="https://xargin.com/rss/" type="rss" description="If you don't keep moving, you'll quickly fall behind." text="No Headback"/>
         <outline htmlUrl="https://www.robberphex.com" xmlUrl="https://www.robberphex.com/feed/" type="rss" description="Just another developer." text="Robert's Blog"/>
         <outline htmlUrl="https://program-think.blogspot.com/" xmlUrl="https://feeds2.feedburner.com/programthink" type="rss" description="" text="编程随想的博客"/>
+        <outline htmlUrl="https://leonson.me/" xmlUrl="https://leonson.me/feed.xml" type="rss" description="Leonson's personal blog" text="浮云游子意 Floating Cloud on Journey"/>
+        <outline htmlUrl="https://www.mobingtu.com" xmlUrl="https://www.mobingtu.com/feed/" type="rss" description="我随便写写，您随便看看。" text="墨冰土"/>
         <outline htmlUrl="http://blog.kongfy.com" xmlUrl="http://blog.kongfy.com/feed/" type="rss" description="good good code, day day up!" text="Kongfy's Blog"/>
         <outline htmlUrl="http://www.shuizilong.com/house" xmlUrl="http://www.shuizilong.com/house/feed/" type="rss" description="... : &quot;...アッカリ～ン . .. . &quot; .. ." text="某岛"/>
     </body>
