@@ -12,14 +12,15 @@
 	lgns = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%ad) %C(bold blue)<%an>%Creset' --abbrev-commit --stat -n
 	r = remote -v
     d = diff
-    dt = difftool
+    dt = icdiff
+    dv = difftool
 [user]
 	name = zoroqi
 	email = zhangqi560832@gmail.com
 [core]
 	quotepath = false
-[core]
-	quotepath = false
+[icdiff]
+   options = --highlight --line-numbers
 [diff]
 	tool = vimdiff
 [difftool]
