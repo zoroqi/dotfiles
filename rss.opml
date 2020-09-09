@@ -2,7 +2,7 @@
 <opml version="1.0">
     <head>
         <title>Vienna Subscriptions</title>
-        <dateCreated>2020-09-09 10:26:49 +0000</dateCreated>
+        <dateCreated>2020-09-09 10:42:04 +0000</dateCreated>
     </head>
     <body>
         <outline htmlUrl="https://engineering.fb.com" xmlUrl="https://engineering.fb.com/feed/" type="rss" description="Facebook Engineering Blog" text="Facebook Engineering"/>
@@ -58,6 +58,8 @@
             <outline htmlUrl="https://terminus2049.github.io/" xmlUrl="https://terminus2049.github.io/atom.xml" type="rss" description="" text="端点星"/>
             <outline htmlUrl="https://gatsby.franks.hk" xmlUrl="https://gatsbycdn.franks.hk/rss.xml" type="rss" description="人生這部戲" text="人生這部戲"/>
             <outline htmlUrl="http://yanhang.me/" xmlUrl="https://yanhang.me/atom.xml" type="rss" description="技术博客" text="涯余"/>
+            <outline htmlUrl="https://www.physixfan.com" xmlUrl="https://www.physixfan.com/feed/" type="rss" description="细推物理须行乐 何用浮名绊此身" text="宇宙的心弦"/>
+            <outline htmlUrl="https://tingtalk.me/" xmlUrl="https://tingtalk.me/atom.xml" type="rss" description="保持蓬勃的好奇心" text="庭说"/>
         </outline>
     </body>
 </opml>
