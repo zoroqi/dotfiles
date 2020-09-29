@@ -13,8 +13,6 @@ done
 
 read -p "请输入appid:" appid
 
-echo $appid
-
 appname=""
 num=0
 for i in $applist
