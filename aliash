@@ -7,3 +7,5 @@ alias o='open .'
 alias treen='tree -N'
 alias dockerstart='open -a Docker.app'
 alias zl='z -l'
+
+alias ,openapp='~/my_sh/dotfiles/mac-openapp.sh'
