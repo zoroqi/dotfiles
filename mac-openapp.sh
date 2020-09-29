@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 需要对空格进行特殊处理, 现在临时方案用@替换
-applist=`ls /Applications |grep app| tr " " "@"`
+applist=`ls /Applications | grep app | tr " " "@"`
 
 num=0
 for i in $applist
