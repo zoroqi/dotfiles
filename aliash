@@ -5,6 +5,7 @@ alias sub='open -a "Sublime Text.app" '
 alias typora='open -a "Typora.app" '
 alias o='open .'
 alias treen='tree -N'
+alias treel='tree -N -L'
 alias dockerstart='open -a Docker.app'
 alias zl='z -l'
 
