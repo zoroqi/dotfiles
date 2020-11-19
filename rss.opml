@@ -2,37 +2,36 @@
 <opml version="1.0">
     <head>
         <title>Vienna Subscriptions</title>
-        <dateCreated>2020-11-03 10:02:17 +0000</dateCreated>
+        <dateCreated>2020-11-19 09:07:09 +0000</dateCreated>
     </head>
     <body>
-        <outline htmlUrl="https://engineering.fb.com" xmlUrl="https://engineering.fb.com/feed/" type="rss" description="Facebook Engineering Blog" text="Facebook Engineering"/>
-        <outline htmlUrl="https://www.solidot.org" xmlUrl="https://www.solidot.org/index.rss" type="rss" description="奇客的资讯，重要的东西。" text="奇科 – Solidot"/>
-        <outline htmlUrl="http://www.ftchinese.com/" xmlUrl="http://www.ftchinese.com/rss/feed" type="rss" description=" FT中文网每日新闻 " text="FT中文网_英国《金融时报》(Financial Times)"/>
-        <outline htmlUrl="https://wanqu.co/issues/1359?s=rss" xmlUrl="https://wanqu.co/feed/" type="rss" description="
-            今天是湾区日报运营第2281天，阅读本期所有文章需60分钟。
+        <outline text="新闻">
+            <outline htmlUrl="http://www.bbcchinese.com" xmlUrl="http://feeds.bbci.co.uk/zhongwen/simp/rss.xml" type="rss" description="BBC Chinese - 主页" text="BBC Chinese - 主页"/>
+            <outline htmlUrl="http://www.dapenti.com" xmlUrl="http://www.dapenti.com/blog/rss2.asp" type="rss" description="喷嚏网-阅读、发现和分享：8小时外的健康生活!" text="喷嚏网----阅读、发现和分享：8小时外的健康生活！"/>
+            <outline htmlUrl="http://www.dgtle.com" xmlUrl="http://www.dgtle.com/rss/dgtle.xml" type="rss" description="分享美好数字生活" text="数字尾巴"/>
+            <outline htmlUrl="http://www.ftchinese.com/" xmlUrl="http://www.ftchinese.com/rss/feed" type="rss" description=" FT中文网每日新闻 " text="FT中文网_英国《金融时报》(Financial Times)"/>
+            <outline htmlUrl="https://www.solidot.org" xmlUrl="https://www.solidot.org/index.rss" type="rss" description="奇客的资讯，重要的东西。" text="奇科 – Solidot"/>
+            <outline htmlUrl="https://www.iplaysoft.com" xmlUrl="https://feed.iplaysoft.com/" type="rss" description="软件改变生活" text="异次元软件世界"/>
+            <outline htmlUrl="https://www.ipcfun.com" xmlUrl="https://feed.ipcfun.com/" type="rss" description="分享最精彩有趣的互联网资讯，打发最无聊的时间" text="iPcFun"/>
+            <outline htmlUrl="https://jp.techcrunch.com" xmlUrl="https://jp.techcrunch.com/feed/" type="rss" description="国内外のスタートアップとテクノロジーの最新ニュース（テッククランチ・ジャパン）" text="TechCrunch Japan"/>
+            <outline htmlUrl="https://techcrunch.com" xmlUrl="https://techcrunch.com/feed/" type="rss" description="Startup and Technology News" text="TechCrunch"/>
+            <outline htmlUrl="https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=" xmlUrl="https://www.ifanr.com/feed" type="rss" description="让未来触手可及" text="爱范儿"/>
+            <outline htmlUrl="http://cn.nikkei.com/" xmlUrl="http://cn.nikkei.com/rss.html" type="rss" description="日经中文网官方网站。日经中文网是日本经济新闻社的中文财经网站。提供日本、中国、欧美财经金融信息、商务、企业、高科技报道、评论和专栏。" text="日经中文网"/>
+        </outline>
+        <outline text="集合">
+            <outline htmlUrl="https://news.ycombinator.com/" xmlUrl="https://news.ycombinator.com/rss" type="rss" description="Links for the intellectually curious, ranked by readers." text="Hacker News"/>
+            <outline htmlUrl="http://ifeve.com" xmlUrl="http://ifeve.com/feed/" type="rss" description="让天下没有难学的技术" text="并发编程网 – ifeve.com"/>
+            <outline htmlUrl="https://github.com/zoroqi" xmlUrl="https://github.com/zoroqi.private.atom?token=AGTI-bEXjyl2fpfUlUauD8Pj83SmTv4nks66e14qwA==" type="rss" description="" text="Private Feed for zoroqi"/>
+            <outline htmlUrl="https://www.v2ex.com/" xmlUrl="https://www.v2ex.com/feed/tab/tech.xml" type="rss" description="way to explore" text="V2EX - 技术"/>
+            <outline htmlUrl="https://www.v2ex.com/" xmlUrl="https://www.v2ex.com/feed/tab/deals.xml" type="rss" description="way to explore" text="V2EX - 交易"/>
+            <outline htmlUrl="https://bloghub.fun" xmlUrl="https://bloghub.fun/feeds" type="rss" description="BlogHub" text="BlogHub"/>
+            <outline htmlUrl="https://xinquji.com" xmlUrl="https://xinquji.com/rss" type="rss" description="新趣集是一个产品发现社区，发现最新的网站，移动 App和技术产品" text="新趣集"/>
+        </outline>
+        <outline text="博客">
+            <outline htmlUrl="https://wanqu.co/issues/1359?s=rss" xmlUrl="https://wanqu.co/feed/" type="rss" description="
+            今天是湾区日报运营第2297天，阅读本期所有文章需60分钟。
             
         " text="湾区日报第1214期 2018/07/20"/>
-        <outline htmlUrl="http://www.norvig.com" xmlUrl="http://norvig.com/rss-feed.xml" type="rss" description="Articles by Peter Norvig" text="Peter Norvig"/>
-        <outline htmlUrl="http://www.socialysis.org" xmlUrl="http://socialysis.org/rss/roll.xml" type="rss" description="" text="社区网络分析开源平台"/>
-        <outline htmlUrl="http://www.dgtle.com" xmlUrl="http://www.dgtle.com/rss/dgtle.xml" type="rss" description="分享美好数字生活" text="数字尾巴"/>
-        <outline htmlUrl="https://www.iplaysoft.com" xmlUrl="https://feed.iplaysoft.com/" type="rss" description="软件改变生活" text="异次元软件世界"/>
-        <outline htmlUrl="https://www.ipcfun.com" xmlUrl="https://feed.ipcfun.com/" type="rss" description="分享最精彩有趣的互联网资讯，打发最无聊的时间" text="iPcFun"/>
-        <outline htmlUrl="https://jp.techcrunch.com" xmlUrl="https://jp.techcrunch.com/feed/" type="rss" description="国内外のスタートアップとテクノロジーの最新ニュース（テッククランチ・ジャパン）" text="TechCrunch Japan"/>
-        <outline htmlUrl="https://techcrunch.com" xmlUrl="https://techcrunch.com/feed/" type="rss" description="Startup and Technology News" text="TechCrunch"/>
-        <outline htmlUrl="https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=" xmlUrl="https://www.ifanr.com/feed" type="rss" description="让未来触手可及" text="爱范儿"/>
-        <outline htmlUrl="http://www.dapenti.com" xmlUrl="http://www.dapenti.com/blog/rss2.asp" type="rss" description="喷嚏网-阅读、发现和分享：8小时外的健康生活!" text="喷嚏网----阅读、发现和分享：8小时外的健康生活！"/>
-        <outline htmlUrl="https://www.blackglory.me/" xmlUrl="https://www.blackglory.me/rss/" type="rss" description="It's nothing" text="BlackGlory"/>
-        <outline htmlUrl="https://github.com/zoroqi" xmlUrl="https://github.com/zoroqi.private.atom?token=AGTI-bEXjyl2fpfUlUauD8Pj83SmTv4nks66e14qwA==" type="rss" description="" text="Private Feed for zoroqi"/>
-        <outline htmlUrl="https://openai.com/" xmlUrl="https://openai.com/blog/rss/" type="rss" description="OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity." text="OpenAI Blog"/>
-        <outline htmlUrl="http://cn.nikkei.com/" xmlUrl="http://cn.nikkei.com/rss.html" type="rss" description="日经中文网官方网站。日经中文网是日本经济新闻社的中文财经网站。提供日本、中国、欧美财经金融信息、商务、企业、高科技报道、评论和专栏。" text="日经中文网"/>
-        <outline htmlUrl="https://www.v2ex.com/" xmlUrl="https://www.v2ex.com/feed/tab/tech.xml" type="rss" description="way to explore" text="V2EX - 技术"/>
-        <outline htmlUrl="https://www.v2ex.com/" xmlUrl="https://www.v2ex.com/feed/tab/deals.xml" type="rss" description="way to explore" text="V2EX - 交易"/>
-        <outline htmlUrl="https://news.ycombinator.com/" xmlUrl="https://news.ycombinator.com/rss" type="rss" description="Links for the intellectually curious, ranked by readers." text="Hacker News"/>
-        <outline htmlUrl="http://www.bbcchinese.com" xmlUrl="http://feeds.bbci.co.uk/zhongwen/simp/rss.xml" type="rss" description="BBC Chinese - 主页" text="BBC Chinese - 主页"/>
-        <outline htmlUrl="http://ifeve.com" xmlUrl="http://ifeve.com/feed/" type="rss" description="让天下没有难学的技术" text="并发编程网 – ifeve.com"/>
-        <outline htmlUrl="https://research.swtch.com" xmlUrl="https://research.swtch.com/feed.atom" type="rss" description="" text="research!rsc"/>
-        <outline htmlUrl="https://bloghub.fun" xmlUrl="https://bloghub.fun/feeds" type="rss" description="BlogHub" text="BlogHub"/>
-        <outline text="博客">
             <outline htmlUrl="http://www.phodal.com/blog/" xmlUrl="https://www.phodal.com/blog/feeds/rss/" type="rss" description="Blog" text="Blog | Phodal - A Growth Engineer"/>
             <outline htmlUrl="https://kaix.in/" xmlUrl="https://kaix.in/feed" type="rss" description="杂文、随笔、感悟、记录" text="KAIX.IN"/>
             <outline htmlUrl="http://www.ruanyifeng.com/blog/" xmlUrl="http://feeds.feedburner.com/ruanyifeng" type="rss" description="Ruan YiFeng's Blog" text="阮一峰的网络日志"/>
@@ -74,6 +73,14 @@
             <outline htmlUrl="https://zgw.me" xmlUrl="https://zgw.me/feed" type="rss" description="无为无不为" text="无不为"/>
             <outline htmlUrl="https://jackwish.net/" xmlUrl="https://jackwish.net/feed.xml" type="rss" description="Philosophy as nucleus Σ 科技·观念·文化" text="黎明灰烬 博客"/>
             <outline htmlUrl="https://hutusi.com/" xmlUrl="https://hutusi.com/feed.xml" type="rss" description="hutusi.com" text="胡涂说"/>
+        </outline>
+        <outline text="其他">
+            <outline htmlUrl="http://www.norvig.com" xmlUrl="http://norvig.com/rss-feed.xml" type="rss" description="Articles by Peter Norvig" text="Peter Norvig"/>
+            <outline htmlUrl="https://engineering.fb.com" xmlUrl="https://engineering.fb.com/feed/" type="rss" description="Facebook Engineering Blog" text="Facebook Engineering"/>
+            <outline htmlUrl="http://www.socialysis.org" xmlUrl="http://socialysis.org/rss/roll.xml" type="rss" description="" text="社区网络分析开源平台"/>
+            <outline htmlUrl="https://www.blackglory.me/" xmlUrl="https://www.blackglory.me/rss/" type="rss" description="It's nothing" text="BlackGlory"/>
+            <outline htmlUrl="https://openai.com/" xmlUrl="https://openai.com/blog/rss/" type="rss" description="OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity." text="OpenAI Blog"/>
+            <outline htmlUrl="https://research.swtch.com" xmlUrl="https://research.swtch.com/feed.atom" type="rss" description="" text="research!rsc"/>
         </outline>
     </body>
 </opml>
