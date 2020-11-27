@@ -2,7 +2,7 @@
 <opml version="1.0">
     <head>
         <title>Vienna Subscriptions</title>
-        <dateCreated>2020-11-19 09:07:09 +0000</dateCreated>
+        <dateCreated>2020-11-27 11:06:16 +0000</dateCreated>
     </head>
     <body>
         <outline text="新闻">
@@ -26,10 +26,12 @@
             <outline htmlUrl="https://www.v2ex.com/" xmlUrl="https://www.v2ex.com/feed/tab/deals.xml" type="rss" description="way to explore" text="V2EX - 交易"/>
             <outline htmlUrl="https://bloghub.fun" xmlUrl="https://bloghub.fun/feeds" type="rss" description="BlogHub" text="BlogHub"/>
             <outline htmlUrl="https://xinquji.com" xmlUrl="https://xinquji.com/rss" type="rss" description="新趣集是一个产品发现社区，发现最新的网站，移动 App和技术产品" text="新趣集"/>
+            <outline htmlUrl="https://www.producthunt.com/" xmlUrl="https://www.producthunt.com/feed" type="rss" description="" text="Product Hunt — The best new products, every day"/>
         </outline>
         <outline text="博客">
+            <outline htmlUrl="https://unknwon.io/posts/" xmlUrl="https://unknwon.io/posts/index.xml" type="rss" description="Recent content in Posts on ᴜɴᴋɴᴡᴏɴ" text="Posts on ᴜɴᴋɴᴡᴏɴ"/>
             <outline htmlUrl="https://wanqu.co/issues/1359?s=rss" xmlUrl="https://wanqu.co/feed/" type="rss" description="
-            今天是湾区日报运营第2297天，阅读本期所有文章需60分钟。
+            今天是湾区日报运营第2305天，阅读本期所有文章需60分钟。
             
         " text="湾区日报第1214期 2018/07/20"/>
             <outline htmlUrl="http://www.phodal.com/blog/" xmlUrl="https://www.phodal.com/blog/feeds/rss/" type="rss" description="Blog" text="Blog | Phodal - A Growth Engineer"/>
