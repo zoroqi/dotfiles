@@ -1,3 +1,5 @@
+brew install git
+
 brew install htop
 
 brew install ack
@@ -13,3 +15,4 @@ brew install icdiff
 brew install telnet
 
 brew install graphviz
+
