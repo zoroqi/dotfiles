@@ -17,8 +17,6 @@
     dt = icdiff
     dv = difftool
 [user]
-	name = zoroqi
-	email = zhangqi560832@gmail.com
 [core]
 	quotepath = false
 [icdiff]
