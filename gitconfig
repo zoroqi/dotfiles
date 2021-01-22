@@ -5,17 +5,17 @@
 	cm = commit -m
 	b = branch
 	br = branch -r
-    pl = pull
-    cld = clone --depth
+	pl = pull
+	cld = clone --depth
 	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%ai) %C(bold blue)<%an>%Creset' --abbrev-commit
 	lgs = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%ai) %C(bold blue)<%an>%Creset' --abbrev-commit --stat
 	lgn = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%ai) %C(bold blue)<%an>%Creset' --abbrev-commit -n
 	lgns = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%ai) %C(bold blue)<%an>%Creset' --abbrev-commit --stat -n
-    smf = submodule foreach
+	smf = submodule foreach
 	r = remote -v
-    d = diff
-    dt = icdiff
-    dv = difftool
+	d = diff
+	dt = icdiff
+	dv = difftool
 [user]
 [core]
 	quotepath = false
