@@ -1,3 +1,3 @@
 #!/bin/bash
 
-pls show $1 | less
+pls show -d ~/my_sh/command/command $1 | less
