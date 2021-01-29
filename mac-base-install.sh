@@ -29,3 +29,6 @@ go get -u github.com/zoroqi/dependency-graph
 
 # http工具
 go get -u github.com/davecheney/httpstat
+
+# 中文手册 pls upgrade, -d 可以定下载目录
+go get -u github.com/chenjiandongx/pls

@@ -11,3 +11,4 @@ alias zl='z -l'
 alias gits='git submodule foreach git'
 
 alias ,openapp='~/my_sh/dotfiles/mac-openapp.sh'
+alias ,chelp='~/my_sh/dotfiles/plstools.sh'
