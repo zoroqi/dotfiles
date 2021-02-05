@@ -1,0 +1,27 @@
+.DS_Store
+
+## IntelliJ
+.idea/
+.iml
+
+## file
+*.exe
+*.class
+*.log
+*.hi
+
+## coca
+coca_reporter/
+
+## mvn
+target/
+
+## eclipse
+.settings/
+.project
+
+## stack
+.stack-work/
+
+## other
+*~
