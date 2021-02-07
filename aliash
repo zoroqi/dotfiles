@@ -12,4 +12,5 @@ alias gits='git submodule foreach git'
 alias gitf='git submodule foreach '
 
 alias ,openapp='~/my_sh/dotfiles/mac-openapp.sh'
-alias ,chelp='~/my_sh/dotfiles/plstools.sh'
+alias ,cman=_cman
+alias ,cmans=_cmans
