@@ -16,15 +16,18 @@
 	d = diff
 	dt = icdiff
 	dv = difftool
+	discard = checkout --
 [user]
 [core]
 	quotepath = false
 	excludesfile = ~/my_sh/dotfiles/gitignore
 [icdiff]
-   options = --highlight --line-numbers
+	options = --highlight --line-numbers
 [diff]
 	tool = vimdiff
 [difftool]
 	prompt = No
 [init]
 	defaultBranch = main
+[pull]
+	rebase = false

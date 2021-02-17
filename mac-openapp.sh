@@ -25,8 +25,9 @@ do
     let num=$num+1
 done
 
+# 尝试打开个目录或文件
 if [[ $appname != "" ]]
 then
-    open -a "$appname"
+    open -a "$appname" $1
 fi
 
