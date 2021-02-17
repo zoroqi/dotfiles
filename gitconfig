@@ -1,5 +1,6 @@
 [alias]
-	s = status
+	s = status -sb
+	ss = status
 	c = checkout
 	cam = commit -a -m
 	cm = commit -m
