@@ -2,7 +2,7 @@
 
 ## IntelliJ
 .idea/
-.iml
+*.iml
 
 ## file
 *.exe
