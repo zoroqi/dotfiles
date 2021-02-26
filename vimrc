@@ -117,8 +117,8 @@ set diffopt=iwhite,iwhite,filler,vertical
 " http://vimcasts.org/episodes/show-invisibles/
 " set listchars=tab:▸\ ,eol:¬
 set list
-set listchars=tab:▸\ ,trail:▫
-nmap <leader>l :set list!<CR>
+set listchars=tab:▸\ ,trail:▫,eol:$
+"nmap <leader>l :set list!<CR>
 
 " http://vimcasts.org/episodes/tabs-and-spaces/
 " To insert space characters whenever the tab key is pressed
@@ -132,3 +132,5 @@ set so=3
 " change the number of space characters inserted for indentation
 set shiftwidth=4
 set so=5
+set dy=uhex
+set fileformats=unix
