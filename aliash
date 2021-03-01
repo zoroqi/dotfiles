@@ -11,7 +11,7 @@ alias zl='z -l'
 alias gits='git submodule foreach git'
 alias gitf='git submodule foreach '
 alias lS='ls -Salh'
-alias lSr='ls -Salhr
+alias lSr='ls -Salhr'
 
 alias ,openapp='~/my_sh/dotfiles/mac-openapp.sh'
 alias ,cman=_cman

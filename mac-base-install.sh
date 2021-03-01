@@ -18,6 +18,9 @@ brew install telnet
 
 brew install graphviz
 
+brew install pstree
+
+
 # 代码分析工具
 go get -u github.com/phodal/coca
 
