@@ -2,7 +2,7 @@
 <opml version="1.0">
     <head>
         <title>Vienna Subscriptions</title>
-        <dateCreated>2021-03-01 07:13:45 +0000</dateCreated>
+        <dateCreated>2021-03-19 01:56:41 +0000</dateCreated>
     </head>
     <body>
         <outline text="新闻">
@@ -12,7 +12,6 @@
             <outline htmlUrl="http://www.ftchinese.com/" xmlUrl="http://www.ftchinese.com/rss/feed" type="rss" description=" FT中文网每日新闻 " text="FT中文网_英国《金融时报》(Financial Times)"/>
             <outline htmlUrl="https://www.solidot.org" xmlUrl="https://www.solidot.org/index.rss" type="rss" description="奇客的资讯，重要的东西。" text="奇科 – Solidot"/>
             <outline htmlUrl="https://www.iplaysoft.com" xmlUrl="https://feed.iplaysoft.com/" type="rss" description="软件改变生活" text="异次元软件世界"/>
-            <outline htmlUrl="https://www.ipcfun.com" xmlUrl="https://feed.ipcfun.com/" type="rss" description="分享最精彩有趣的互联网资讯，打发最无聊的时间" text="iPcFun"/>
             <outline htmlUrl="https://jp.techcrunch.com" xmlUrl="https://jp.techcrunch.com/feed/" type="rss" description="国内外のスタートアップとテクノロジーの最新ニュース（テッククランチ・ジャパン）" text="TechCrunch Japan"/>
             <outline htmlUrl="https://techcrunch.com" xmlUrl="https://techcrunch.com/feed/" type="rss" description="Startup and Technology News" text="TechCrunch"/>
             <outline htmlUrl="https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=" xmlUrl="https://www.ifanr.com/feed" type="rss" description="让未来触手可及" text="爱范儿"/>
@@ -30,11 +29,12 @@
             <outline htmlUrl="https://www.producthunt.com/" xmlUrl="https://www.producthunt.com/feed" type="rss" description="" text="Product Hunt — The best new products, every day"/>
         </outline>
         <outline text="博客">
+            <outline htmlUrl="https://cjting.me/" xmlUrl="https://cjting.me/index.xml" type="rss" description="Recent content on CJ Ting's Blog" text="CJ Ting's Blog"/>
             <outline htmlUrl="https://type.cyhsu.xyz" xmlUrl="https://type.cyhsu.xyz/feed/" type="rss" description="Wherefore art thou?" text="Neverland"/>
             <outline htmlUrl="https://blog.changkun.de/posts/" xmlUrl="https://blog.changkun.de/posts/index.xml" type="rss" description="Recent content in Posts on Changkun's Blog" text="Posts on Changkun's Blog"/>
             <outline htmlUrl="https://unknwon.io/posts/" xmlUrl="https://unknwon.io/posts/index.xml" type="rss" description="Recent content in Posts on ᴜɴᴋɴᴡᴏɴ" text="Posts on ᴜɴᴋɴᴡᴏɴ"/>
             <outline htmlUrl="https://wanqu.co/issues/1368?s=rss" xmlUrl="https://wanqu.co/feed/" type="rss" description="
-            今天是湾区日报运营第2399天，阅读本期所有文章需42分钟。
+            今天是湾区日报运营第2416天，阅读本期所有文章需42分钟。
             
         " text="湾区日报第1214期 2018/07/20"/>
             <outline htmlUrl="http://www.phodal.com/blog/" xmlUrl="https://www.phodal.com/blog/feeds/rss/" type="rss" description="Blog" text="Blog | Phodal - A Growth Engineer"/>
