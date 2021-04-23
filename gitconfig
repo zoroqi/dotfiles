@@ -8,10 +8,10 @@
 	br = branch -r
 	pl = pull
 	cld = clone --depth
-	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%ai) %C(bold blue)<%an>%Creset' --abbrev-commit
-	lgs = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%ai) %C(bold blue)<%an>%Creset' --abbrev-commit --stat
-	lgn = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%ai) %C(bold blue)<%an>%Creset' --abbrev-commit -n
-	lgns = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%ai) %C(bold blue)<%an>%Creset' --abbrev-commit --stat -n
+	lg = log --graph --pretty=format:'%Cred%h%Creset -%Cgreen(%ai) %C(bold blue)<%an>%Creset %s %C(yellow)%d%Creset' --abbrev-commit
+	lgs = log --graph --pretty=format:'%Cred%h%Creset -%Cgreen(%ai) %C(bold blue)<%an>%Creset %s %C(yellow)%d%Creset' --abbrev-commit --stat
+	lgn = log --graph --pretty=format:'%Cred%h%Creset -%Cgreen(%ai) %C(bold blue)<%an>%Creset %s %C(yellow)%d%Creset' --abbrev-commit -n
+	lgns = log --graph --pretty=format:'%Cred%h%Creset -%Cgreen(%ai) %C(bold blue)<%an>%Creset %s %C(yellow)%d%Creset' --abbrev-commit --stat -n
 	smf = submodule foreach
 	r = remote -v
 	d = diff
