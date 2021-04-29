@@ -16,3 +16,4 @@ alias lSr='ls -Salhr'
 alias ,openapp='~/my_sh/dotfiles/mac-openapp.sh'
 alias ,cman=_cman
 alias ,cmans=_cmans
+alias ,mdsearch='~/my_sh/dotfiles/search.sh'
