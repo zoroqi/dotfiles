@@ -2,7 +2,7 @@
 <opml version="1.0">
     <head>
         <title>Vienna Subscriptions</title>
-        <dateCreated>2021-06-07 14:00:41 +0000</dateCreated>
+        <dateCreated>2021-06-08 01:44:42 +0000</dateCreated>
     </head>
     <body>
         <outline text="新闻">
@@ -17,14 +17,12 @@
             <outline htmlUrl="https://www.blackglory.me/" xmlUrl="https://www.blackglory.me/rss/" type="rss" description="It's nothing" text="BlackGlory"/>
             <outline htmlUrl="http://www.bbcchinese.com" xmlUrl="http://feeds.bbci.co.uk/zhongwen/simp/rss.xml" type="rss" description="BBC Chinese - 主页" text="BBC Chinese - 主页"/>
             <outline htmlUrl="http://cn.nikkei.com/" xmlUrl="http://cn.nikkei.com/rss.html" type="rss" description="日经中文网官方网站。日经中文网是日本经济新闻社的中文财经网站。提供日本、中国、欧美财经金融信息、商务、企业、高科技报道、评论和专栏。" text="日经中文网"/>
-            <outline htmlUrl="https://wanqu.co/issues/1369?s=rss" xmlUrl="https://wanqu.co/feed/" type="rss" description="
-            今天是湾区日报运营第2497天，阅读本期所有文章需50分钟。
-            
-        " text="湾区日报第1214期 2018/07/20"/>
+            <outline htmlUrl="https://wanqu.co/issues/1369?s=rss" xmlUrl="https://wanqu.co/feed/" type="rss" description="今天是湾区日报运营第2497天，阅读本期所有文章需50分钟。" text="湾区日报第1214期 2018/07/20"/>
             <outline htmlUrl="https://linux.cn/" xmlUrl="https://linux.cn/rss.xml" type="rss" description="Linux 中国◆开源社区" text="Linux 中国◆开源社区"/>
         </outline>
         <outline text="博客">
-            <outline htmlUrl="https://blog.jimmylv.info" xmlUrl="https://blog.jimmylv.info/pages/feed.xml" type="rss" description="想做产品，却误入程序世界爱上设计的摄影师。" text="吕立青的博客"/>
+            <outline htmlUrl="https://interconnected.blog/" xmlUrl="https://interconnected.blog/rss/" type="rss" description="Internet's only bilingual newsletter on the intersections of tech, business, money, geopolitics, and US-Asia relations. New post every Sunday, by Kevin Xu (@kevinsxu)" text="Interconnected"/>
+            <outline htmlUrl="https://tech.youzan.com/" xmlUrl="https://tech.youzan.com/rss/" type="rss" description="Thoughts, stories and ideas." text="有赞技术团队"/>
             <outline htmlUrl="http://blog.cleancoder.com/" xmlUrl="https://blog.cleancoder.com/atom.xml" type="rss" description="" text="The Clean Code Blog"/>
             <outline htmlUrl="https://erdong.site/" xmlUrl="https://erdong.site/atom.xml" type="rss" description="苦练七十二变，笑对八十一难。" text="Erdong’ Blog"/>
             <outline htmlUrl="http://www.ruanyifeng.com/blog/" xmlUrl="http://feeds.feedburner.com/ruanyifeng" type="rss" description="Ruan YiFeng's Blog" text="阮一峰的网络日志"/>
@@ -77,6 +75,7 @@
             <outline htmlUrl="https://blog.joway.io/" xmlUrl="https://cdn.jsdelivr.net/gh/joway/blog/index.xml" type="rss" description="Recent content on Random Thoughts" text="Random Thoughts"/>
             <outline htmlUrl="http://sht2019.cn/" xmlUrl="http://sht2019.cn/atom.xml" type="rss" description="我的心情晴空万里，热情宽容幽默大方快乐，这就是我引导的生活" text="开源之心"/>
             <outline htmlUrl="https://www.techug.com" xmlUrl="https://www.techug.com/feed" type="rss" description="程序员、编程语言、软件开发、编程技术" text="程序师"/>
+            <outline htmlUrl="https://blog.jimmylv.info" xmlUrl="https://blog.jimmylv.info/pages/feed.xml" type="rss" description="想做产品，却误入程序世界爱上设计的摄影师。" text="吕立青的博客"/>
         </outline>
         <outline text="集合">
             <outline htmlUrl="https://github.com/zoroqi" xmlUrl="https://github.com/zoroqi.private.atom?token=AGTI-bEXjyl2fpfUlUauD8Pj83SmTv4nks66e14qwA==" type="rss" description="" text="Private Feed for zoroqi"/>
