@@ -1,5 +1,5 @@
 source ~/.alias
-source ~/my_sh/dotfiles/z/z.sh
+. ~/my_sh/dotfiles/z/z.sh
 source ~/my_sh/dotfiles/gorc
 source ~/my_sh/dotfiles/plstools.sh
 
