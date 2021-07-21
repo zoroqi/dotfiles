@@ -2,7 +2,7 @@
 <opml version="1.0">
     <head>
         <title>Vienna Subscriptions</title>
-        <dateCreated>2021-07-09 02:54:43 +0000</dateCreated>
+        <dateCreated>2021-07-21 03:09:21 +0000</dateCreated>
     </head>
     <body>
         <outline text="新闻">
@@ -18,7 +18,7 @@
             <outline htmlUrl="http://www.bbcchinese.com" xmlUrl="http://feeds.bbci.co.uk/zhongwen/simp/rss.xml" type="rss" description="BBC Chinese - 主页" text="BBC Chinese - 主页"/>
             <outline htmlUrl="http://cn.nikkei.com/" xmlUrl="http://cn.nikkei.com/rss.html" type="rss" description="日经中文网官方网站。日经中文网是日本经济新闻社的中文财经网站。提供日本、中国、欧美财经金融信息、商务、企业、高科技报道、评论和专栏。" text="日经中文网"/>
             <outline htmlUrl="https://wanqu.co/issues/1369?s=rss" xmlUrl="https://wanqu.co/feed/" type="rss" description="
-            今天是湾区日报运营第2529天，阅读本期所有文章需50分钟。
+            今天是湾区日报运营第2541天，阅读本期所有文章需50分钟。
             
         " text="湾区日报第1214期 2018/07/20"/>
             <outline htmlUrl="https://linux.cn/" xmlUrl="https://linux.cn/rss.xml" type="rss" description="Linux 中国◆开源社区" text="Linux 中国◆开源社区"/>
@@ -69,7 +69,7 @@
             <outline htmlUrl="https://102no.com/" xmlUrl="https://102no.com/atom.xml" type="rss" description="是谁来自 Python Java, 却囿于 PHP, Go 与 Lua. (句中提及语言,博主一概不会.单押x3)" text="把酒诗代码，趁乱写年华。"/>
             <outline htmlUrl="https://blog.ifuture.pro/" xmlUrl="https://blog.ifuture.pro/atom.xml" type="rss" description="「未来编写者」 做好每个自己，寻找心中的自己" text="未来编写者"/>
             <outline htmlUrl="https://zgw.me" xmlUrl="https://zgw.me/feed" type="rss" description="无为无不为" text="无不为"/>
-            <outline htmlUrl="https://jackwish.net/" xmlUrl="https://jackwish.net/feed.xml" type="rss" description="Philosophy as nucleus Σ 科技·观念·文化" text="黎明灰烬 博客"/>
+            <outline htmlUrl="https://jackwish.net/" xmlUrl="https://jackwish.net/feed.xml" type="rss" description="Bring you insight, vision, and methodology Σ 技术·人文·观念" text="黎明灰烬 博客"/>
             <outline htmlUrl="https://hutusi.com/" xmlUrl="https://hutusi.com/feed.xml" type="rss" description="hutusi.com" text="胡涂说"/>
             <outline htmlUrl="http://www.phodal.com/blog/" xmlUrl="https://www.phodal.com/blog/feeds/rss/" type="rss" description="Blog" text="Blog | Phodal - A Growth Engineer"/>
             <outline htmlUrl="https://unknwon.io/posts/" xmlUrl="https://unknwon.io/posts/index.xml" type="rss" description="Recent content in Posts on ᴜɴᴋɴᴡᴏɴ" text="Posts on ᴜɴᴋɴᴡᴏɴ"/>
@@ -84,6 +84,9 @@
             <outline htmlUrl="https://www.techug.com" xmlUrl="https://www.techug.com/feed" type="rss" description="程序员、编程语言、软件开发、编程技术" text="程序师"/>
             <outline htmlUrl="https://blog.jimmylv.info" xmlUrl="https://blog.jimmylv.info/pages/feed.xml" type="rss" description="想做产品，却误入程序世界爱上设计的摄影师。" text="吕立青的博客"/>
             <outline htmlUrl="https://www.feidaoboke.com/" xmlUrl="https://www.feidaoboke.com/feed.php" type="rss" description="独立的个人博客" text="飞刀博客"/>
+            <outline htmlUrl="http://iamsujie.com" xmlUrl="http://iamsujie.com/feed/" type="rss" description="——  成长中的产品经理，期待和同学们一起，用好产品改变世界~" text="人人都是产品经理——iamsujie"/>
+            <outline htmlUrl="https://blog.huoding.com" xmlUrl="https://blog.huoding.com/feed" type="rss" description="多研究些问题，少谈些主义。" text="火丁笔记"/>
+            <outline htmlUrl="http://macshuo.com" xmlUrl="http://macshuo.com/?feed=rss2" type="rss" description="关注技术和人文" text="MacTalk-池建强的随想录"/>
         </outline>
         <outline text="集合">
             <outline htmlUrl="https://www.lesswrong.com" xmlUrl="https://www.lesswrong.com/feed.xml" type="rss" description="A community blog devoted to refining the art of rationality" text="LessWrong"/>
@@ -97,6 +100,9 @@
             <outline htmlUrl="https://www.producthunt.com/" xmlUrl="https://www.producthunt.com/feed" type="rss" description="" text="Product Hunt — The best new products, every day"/>
             <outline htmlUrl="https://hypothes.is/stream" xmlUrl="https://hypothes.is/stream.rss?user=zoroqi" type="rss" description="The Web. Annotated" text="zoroqi 标注"/>
             <outline htmlUrl="https://www.trackawesomelist.com" xmlUrl="https://www.trackawesomelist.com/rss.xml" type="rss" description="Track your favorite github awesome repo, not just star it." text="Track Awesome List Daily Updates"/>
+            <outline htmlUrl="http://ocw.aca.ntu.edu.tw/ntu-ocw" xmlUrl="http://ocw.aca.ntu.edu.tw/ntu-ocw/rss" type="rss" description="臺灣大學為響應全球開放式教育運動並善盡社會責任、提高本校能見度，將邀請各學系提供能彰顯該系特色之優質課程，建置「開放式課程」網站。其教材內容除提供社會人士免費上網自我學習外，並提供予國內外學生、教師及相關研究人員作為學習輔助、課程教學及研究題材之參考，以提昇學習效果及研究品質。" text="臺大開放式課程 (NTU OpenCourseWare)"/>
+            <outline htmlUrl="https://www.oschina.net/news/rss" xmlUrl="https://www.oschina.net/news/rss" type="rss" description="OSCHINA - 中文开源技术交流社区" text="OSCHINA 社区最新新闻"/>
+            <outline htmlUrl="http://www.zhihu.com" xmlUrl="https://www.zhihu.com/rss" type="rss" description="中文互联网最大的知识平台，帮助人们便捷地分享彼此的知识、经验和见解。" text="知乎每日精选"/>
         </outline>
         <outline text="其他">
             <outline htmlUrl="https://engineering.fb.com" xmlUrl="https://engineering.fb.com/feed/" type="rss" description="Facebook Engineering Blog" text="Facebook Engineering"/>
