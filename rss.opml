@@ -2,7 +2,7 @@
 <opml version="1.0">
     <head>
         <title>Vienna Subscriptions</title>
-        <dateCreated>2021-11-19 10:34:04 +0000</dateCreated>
+        <dateCreated>2021-11-26 08:46:04 +0000</dateCreated>
     </head>
     <body>
         <outline text="新闻">
@@ -17,7 +17,7 @@
             <outline htmlUrl="http://www.bbcchinese.com" xmlUrl="http://feeds.bbci.co.uk/zhongwen/simp/rss.xml" type="rss" description="BBC Chinese - 主页" text="BBC Chinese - 主页"/>
             <outline htmlUrl="http://cn.nikkei.com/" xmlUrl="http://cn.nikkei.com/rss.html" type="rss" description="日经中文网官方网站。日经中文网是日本经济新闻社的中文财经网站。提供日本、中国、欧美财经金融信息、商务、企业、高科技报道、评论和专栏。" text="日经中文网"/>
             <outline htmlUrl="https://wanqu.co/issues/1370?s=rss" xmlUrl="https://wanqu.co/feed/" type="rss" description="
-            今天是湾区日报运营第2662天，阅读本期所有文章需19分钟。
+            今天是湾区日报运营第2669天，阅读本期所有文章需19分钟。
             
         " text="湾区日报第1214期 2018/07/20"/>
             <outline htmlUrl="https://linux.cn/" xmlUrl="https://linux.cn/rss.xml" type="rss" description="Linux 中国◆开源社区" text="Linux 中国◆开源社区"/>
@@ -58,7 +58,7 @@
             <outline htmlUrl="https://blog.wokanxing.info/" xmlUrl="https://blog.wokanxing.info/feed" type="rss" description="坚持·厚道·平常心" text="我看行之Feed"/>
             <outline htmlUrl="https://www.kawabangga.com" xmlUrl="https://www.kawabangga.com/feed" type="rss" description="无法自制的人得不到自由。" text="卡瓦邦噶！"/>
             <outline htmlUrl="https://maiyang.me/" xmlUrl="https://maiyang.me/index.xml" type="rss" description="Recent content on 茶歇驿站 - Gopher, OpenSource Fans, 成长之路有我相伴。" text="茶歇驿站 - Gopher, OpenSource Fans, 成长之路有我相伴。"/>
-            <outline htmlUrl="https://www.robberphex.com/" xmlUrl="https://www.robberphex.com/rss2.xml" type="rss" description="" text="Robert's Blog"/>
+            <outline htmlUrl="https://robberphex.com/" xmlUrl="https://www.robberphex.com/rss2.xml" type="rss" description="" text="Robert's Blog"/>
             <outline htmlUrl="https://program-think.blogspot.com/" xmlUrl="https://feeds2.feedburner.com/programthink" type="rss" description="" text="编程随想的博客"/>
             <outline htmlUrl="http://blog.kongfy.com" xmlUrl="http://blog.kongfy.com/feed/" type="rss" description="good good code, day day up!" text="Kongfy's Blog"/>
             <outline htmlUrl="http://www.shuizilong.com/house" xmlUrl="http://www.shuizilong.com/house/feed/" type="rss" description="... : &quot;...アッカリ～ン . .. . &quot; .. ." text="某岛"/>
@@ -86,7 +86,7 @@
             <outline htmlUrl="http://www.phodal.com/blog/" xmlUrl="https://www.phodal.com/blog/feeds/rss/" type="rss" description="Blog" text="Blog | Phodal - A Growth Engineer"/>
             <outline htmlUrl="https://unknwon.io/posts/" xmlUrl="https://unknwon.io/posts/index.xml" type="rss" description="Recent content in Posts on Land of Unknwon" text="Posts on ᴜɴᴋɴᴡᴏɴ"/>
             <outline htmlUrl="https://blog.changkun.de/posts/" xmlUrl="https://blog.changkun.de/posts/index.xml" type="rss" description="Recent content in Posts on Changkun's Blog" text="Posts on Changkun's Blog"/>
-            <outline htmlUrl="https://frostming.com" xmlUrl="https://frostming.com/feed.xml" type="rss" description="The blog site of Frost Ming powered by Jamstack" text="The Atom feed of Frost's blog"/>
+            <outline htmlUrl="http://github.com/dylang/node-rss" xmlUrl="https://frostming.com/feed.xml" type="rss" description="The blog site of Frost Ming powered by Jamstack" text="The Atom feed of Frost's blog"/>
             <outline htmlUrl="https://type.cyhsu.xyz" xmlUrl="https://type.cyhsu.xyz/feed/" type="rss" description="Wherefore art thou?" text="Neverland"/>
             <outline htmlUrl="https://cjting.me/" xmlUrl="https://cjting.me/index.xml" type="rss" description="Recent content on CJ Ting's Blog" text="CJ Ting's Blog"/>
             <outline htmlUrl="https://tonybai.com" xmlUrl="https://tonybai.com/feed/" type="rss" description="一个程序员的心路历程" text="Tony Bai"/>
@@ -130,6 +130,7 @@ Instagram，微博，公众号，Patreon，爱发电：「主唱死了」 " text
             <outline htmlUrl="http://imtx.me/" xmlUrl="http://feeds.feedburner.com/tualatrix" type="rss" description="Hello! This is TualatriX's blog" text="I'm TualatriX"/>
             <outline htmlUrl="https://www.yewen.us/blog" xmlUrl="https://www.yewen.us/blog/feed/" type="rss" description="笨狗的自留地, 闲适时涂鸦撒野, 严肃时讨论技术" text="笨狗又一窝"/>
             <outline htmlUrl="https://jesor.me/" xmlUrl="https://jesor.me/feed.xml" type="rss" description="廃人日志。" text="大破进击"/>
+            <outline htmlUrl="https://thaddeusjiang.com" xmlUrl="https://thaddeusjiang.com/rss.xml" type="rss" description="在日本做 SaaS，工程师 / 顾问" text="蒋继发 (ThaddeusJiang)"/>
         </outline>
         <outline text="集合">
             <outline htmlUrl="https://www.lesswrong.com" xmlUrl="https://www.lesswrong.com/feed.xml" type="rss" description="A community blog devoted to refining the art of rationality" text="LessWrong"/>
