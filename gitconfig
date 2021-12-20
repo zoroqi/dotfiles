@@ -17,6 +17,7 @@
 	d = diff
 	dt = icdiff
 	dv = difftool
+	ds = diff --stat
 	discard = checkout --
 [user]
 [core]
