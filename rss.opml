@@ -2,7 +2,7 @@
 <opml version="1.0">
     <head>
         <title>Vienna Subscriptions</title>
-        <dateCreated>2021-12-20 06:40:48 +0000</dateCreated>
+        <dateCreated>2021-12-24 07:59:12 +0000</dateCreated>
     </head>
     <body>
         <outline text="新闻">
@@ -129,6 +129,7 @@
             <outline htmlUrl="https://justyy.com" xmlUrl="https://justyy.com/feed" type="rss" description="一个程序员(码农)的海外见闻: 技术,人生,怀旧,游戏" text="小赖子的英国生活和资讯"/>
             <outline htmlUrl="https://lenciel.com/" xmlUrl="https://lenciel.com/feed.xml" type="rss" description="Thoughts and Rants by Lenciel" text="@Lenciel"/>
             <outline htmlUrl="https://xuanwo.io/" xmlUrl="https://xuanwo.io/index.xml" type="rss" description="Recent content on Xuanwo's Blog" text="Xuanwo's Blog"/>
+            <outline htmlUrl="http://zhangguanzhang.github.io/" xmlUrl="https://zhangguanzhang.github.io/atom.xml" type="rss" description="站在巨人的肩膀上" text="Zhangguanzhang"/>
         </outline>
         <outline text="集合">
             <outline htmlUrl="https://www.lesswrong.com" xmlUrl="https://www.lesswrong.com/feed.xml" type="rss" description="A community blog devoted to refining the art of rationality" text="LessWrong"/>
