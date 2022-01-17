@@ -4,8 +4,9 @@
 	c = checkout
 	cam = commit -a -m
 	cm = commit -m
-	b = branch
-	br = branch -r
+	b = branch --format '%(authordate:iso) %(if)%(HEAD)%(then)%(color:bold green)* %(refname:short) %(else)  %(refname:short) %(end)' --sort -authordate
+	br = branch -r --format '%(authordate:iso) %(if)%(HEAD)%(then)%(color:bold green)* %(refname:short) %(else)  %(refname:short) %(end)' --sort -authordate
+	bnm = branch --format '%(authordate:iso) %(if)%(HEAD)%(then)%(color:bold green)* %(refname:short) %(else)  %(refname:short) %(end)' --sort -authordate --no-merged
 	pl = pull
 	cld = clone --depth
 	lg = log --graph --pretty=format:'%Cred%h%Creset -%Cgreen(%ai) %C(bold blue)<%an>%Creset %s %C(yellow)%d%Creset' --abbrev-commit
