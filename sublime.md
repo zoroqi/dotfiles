@@ -1,11 +1,9 @@
 {
-    "font_size":26,
+    "color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+    "font_size": 28,
     "font_face":"Monaco",
-     // The number of spaces a tab is considered equal to
     "tab_size": 4,
-    // Set to true to insert spaces when tab is pressed
     "translate_tabs_to_spaces": true,
-    //设置保存时自动转换
     "expand_tabs_on_save": true,
     "draw_white_space": "all",
     "default_line_ending": "unix",
@@ -15,5 +13,9 @@
     "ignored_packages":[],
     "markdown_live_preview_on_open":true,
     "word_wrap": true,
-    "save_on_focus_lost":true
+    "save_on_focus_lost":true,
+    "theme": "Default.sublime-theme",
+    "vintage_start_in_command_mode": true,
+    "vintage_ctrl_keys": true,
+    "scroll_context_lines": 5
 }
