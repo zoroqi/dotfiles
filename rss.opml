@@ -2,7 +2,7 @@
 <opml version="1.0">
     <head>
         <title>Vienna Subscriptions</title>
-        <dateCreated>2022-04-15 11:05:40 +0000</dateCreated>
+        <dateCreated>2022-04-22 10:44:15 +0000</dateCreated>
     </head>
     <body>
         <outline text="新闻">
@@ -17,7 +17,7 @@
             <outline htmlUrl="http://www.bbcchinese.com" xmlUrl="http://feeds.bbci.co.uk/zhongwen/simp/rss.xml" type="rss" description="BBC Chinese - 主页" text="BBC Chinese - 主页"/>
             <outline htmlUrl="http://cn.nikkei.com/" xmlUrl="https://cn.nikkei.com/rss.html" type="rss" description="日经中文网官方网站。日经中文网是日本经济新闻社的中文财经网站。提供日本、中国、欧美财经金融信息、商务、企业、高科技报道、评论和专栏。" text="日经中文网"/>
             <outline htmlUrl="https://wanqu.co/issues/1370?s=rss" xmlUrl="https://wanqu.co/feed/" type="rss" description="
-            今天是湾区日报运营第2809天，阅读本期所有文章需19分钟。
+            今天是湾区日报运营第2816天，阅读本期所有文章需19分钟。
             
         " text="湾区日报第1214期 2018/07/20"/>
             <outline htmlUrl="https://linux.cn/" xmlUrl="https://linux.cn/rss.xml" type="rss" description="Linux 中国◆开源社区" text="Linux 中国◆开源社区"/>
@@ -37,7 +37,49 @@
             <outline htmlUrl="https://arthurchiao.github.io/" xmlUrl="http://arthurchiao.art/feed.xml" type="rss" description="ArthurChiao's Blog" text="ArthurChiao's Blog"/>
         </outline>
         <outline text="博客">
-            <outline htmlUrl="https://wocai.de/" xmlUrl="https://wocai.de/index.xml/" type="rss" description="Recent content on kok的笔记本" text="kok的笔记本"/>
+            <outline text="monthly">
+                <outline htmlUrl="https://www.mobingtu.com" xmlUrl="https://www.mobingtu.com/feed/" type="rss" description="我随便写写，您随便看看。" text="墨冰土"/>
+                <outline htmlUrl="http://mednoter.com" xmlUrl="https://mednoter.com/feed.xml" type="rss" description="一个程序员" text="吕小荣"/>
+                <outline htmlUrl="http://www.collaborativefund.com" xmlUrl="http://feeds.feedburner.com/collabfund" type="rss" description="Collaborative Fund is a leading source of capital for entrepreneurs pushing the world forward." text="Collaborative Fund"/>
+                <outline htmlUrl="http://chinese.catchen.me/" xmlUrl="http://feeds.feedburner.com/CatChen/Chinese" type="rss" description="" text="Cat in Chinese"/>
+                <outline htmlUrl="https://leonson.me/" xmlUrl="https://leonson.me/feed.xml" type="rss" description="Leonson&amp;#039;s personal blog" text="浮云游子意 Floating Cloud on Journey"/>
+                <outline htmlUrl="http://www.shuizilong.com/house" xmlUrl="http://www.shuizilong.com/house/feed/" type="rss" description="... : &quot;...アッカリ～ン . .. . &quot; .. ." text="某岛"/>
+                <outline htmlUrl="https://www.kawabangga.com" xmlUrl="https://www.kawabangga.com/feed" type="rss" description="无法自制的人得不到自由。" text="卡瓦邦噶！"/>
+                <outline htmlUrl="https://coolshell.cn" xmlUrl="https://coolshell.cn/feed" type="rss" description="享受编程和技术所带来的快乐 - Coding Your Ambition" text="酷 壳 – CoolShell"/>
+                <outline htmlUrl="HTTPS://strikefreedom.top" xmlUrl="https://strikefreedom.top/rss.xml" type="rss" description="Live fast. Die young. Be wild. Have fun." text="潘少的 BLOG"/>
+                <outline htmlUrl="https://tech.youzan.com/" xmlUrl="https://tech.youzan.com/rss/" type="rss" description="Thoughts, stories and ideas." text="有赞技术团队"/>
+                <outline htmlUrl="https://interconnected.blog/" xmlUrl="https://interconnected.blog/rss/" type="rss" description="Internet's only bilingual newsletter on the intersections of tech, business, money, geopolitics, and US-Asia relations. New post every week by Kevin Xu (@kevinsxu)" text="Interconnected"/>
+                <outline htmlUrl="https://yinwang1.wordpress.com" xmlUrl="https://yinwang1.wordpress.com/feed/" type="rss" description="" text="王垠的草稿本"/>
+                <outline htmlUrl="https://rollingstarky.github.io/" xmlUrl="https://www.starky.ltd/atom.xml" type="rss" description="我的全部道路，就是从孤独走向人间" text="StarryLand"/>
+                <outline htmlUrl="https://www.scarsu.com/" xmlUrl="https://www.scarsu.com/atom.xml" type="rss" description="不要标榜，去行动😃" text="ScarSu"/>
+            </outline>
+            <outline text="semiannually">
+                <outline htmlUrl="https://maiyang.me/" xmlUrl="https://maiyang.me/index.xml" type="rss" description="Recent content on 茶歇驿站 - Gopher, OpenSource Fans, 成长之路有我相伴。" text="茶歇驿站 - Gopher, OpenSource Fans, 成长之路有我相伴。"/>
+                <outline htmlUrl="https://www.hankcs.com" xmlUrl="http://www.hankcs.com/feed/" type="rss" description="自然语言处理、机器学习算法" text="码农场"/>
+                <outline htmlUrl="https://pythonhunter.org/" xmlUrl="https://pythonhunter.org/feed/audio.xml" type="rss" description=" 《捕蛇者说》是一档以编程为主题的聊天节目。我们会聊聊编程、程序员和 Python。 " text="捕蛇者说"/>
+                <outline htmlUrl="https://github.com/yihong0618/gitblog" xmlUrl="https://raw.githubusercontent.com/yihong0618/gitblog/master/feed.xml" type="rss" description="" text="yihong0618's gitblog"/>
+                <outline htmlUrl="http://blog.farmostwood.net" xmlUrl="http://blog.farmostwood.net/feed" type="rss" description="" text="木遥的窗子"/>
+                <outline htmlUrl="https://wocai.de/" xmlUrl="https://wocai.de/index.xml/" type="rss" description="Recent content on kok的笔记本" text="kok的笔记本"/>
+                <outline htmlUrl="http://blog.cleancoder.com/" xmlUrl="https://blog.cleancoder.com/atom.xml" type="rss" description="" text="The Clean Code Blog"/>
+            </outline>
+            <outline text="yearly">
+                <outline htmlUrl="https://robberphex.com/" xmlUrl="https://robberphex.com/atom.xml" type="rss" description="" text="Robert's Blog"/>
+                <outline htmlUrl="https://blog.wokanxing.info/" xmlUrl="https://blog.wokanxing.info/feed" type="rss" description="坚持·厚道·平常心" text="我看行之Feed"/>
+                <outline htmlUrl="https://diygod.me/" xmlUrl="https://diygod.me/atom.xml" type="rss" description="" text="Hi, DIYgod"/>
+                <outline htmlUrl="https://jhuo.ca/" xmlUrl="https://jhuo.ca/index.xml" type="rss" description="Recent content on HuoJu's BLOG" text="HuoJu's BLOG"/>
+                <outline htmlUrl="https://laike9m.com/blog/rss" xmlUrl="https://laike9m.com/blog/rss/" type="rss" description="Update on laike9m blog's articles." text="laike9m's blog"/>
+                <outline htmlUrl="http://dtysky.moe" xmlUrl="http://dtysky.moe/feeds/Life" type="rss" description="自由地看待世界，真诚地走向死亡" text="dtysky|一个行者的轨迹"/>
+            </outline>
+            <outline text="longlong">
+                <outline htmlUrl="http://blog.kongfy.com" xmlUrl="http://blog.kongfy.com/feed/" type="rss" description="good good code, day day up!" text="Kongfy's Blog"/>
+                <outline htmlUrl="https://program-think.blogspot.com/" xmlUrl="https://feeds2.feedburner.com/programthink" type="rss" description="" text="编程随想的博客"/>
+                <outline htmlUrl="https://pingcap.com/blog-cn/" xmlUrl="https://pingcap.com/zh/blog/index.xml" type="rss" description="Recent content in Blog-cns on SQL at Scale" text="Blog-cns on MySQL at Scale"/>
+                <outline htmlUrl="https://zhaopeng.me/" xmlUrl="https://zhaopeng.me/index.php/feed/" type="rss" description="技术也是一门手艺" text="手艺人赵鹏"/>
+                <outline htmlUrl="https://erdong.site/" xmlUrl="https://erdong.site/atom.xml" type="rss" description="苦练七十二变，笑对八十一难。" text="Erdong’ Blog"/>
+                <outline htmlUrl="https://code2048.com/" xmlUrl="https://code2048.com/index.xml" type="rss" description="Recent content on 神秘的程序员们" text="神秘的程序员们"/>
+                <outline htmlUrl="https://meditic.com" xmlUrl="https://meditic.com/feed" type="rss" description="meditic的博客" text="meditic的博客"/>
+                <outline htmlUrl="https://www.blackglory.me/" xmlUrl="https://www.blackglory.me/rss/" type="rss" description="It's nothing" text="BlackGlory"/>
+            </outline>
             <outline text="Person">
                 <outline htmlUrl="http://www.zreading.cn" xmlUrl="http://www.zreading.cn/feed" type="rss" description="一切成功均源自积累！" text="左岸读书"/>
                 <outline htmlUrl="https://s5s5.me" xmlUrl="http://s5s5.me/feed" type="rss" description="本站是基于人类交互的，您的想象决定了我们的应用！" text="[米随随] s5s5"/>
@@ -73,38 +115,6 @@
                 <outline htmlUrl="http://www.zhuangbiaowei.com/blog" xmlUrl="http://www.zhuangbiaowei.com/blog/?feed=rss2" type="rss" description="识天地本心、教生民立命、为往圣传道学、为万世谋太平。" text="读书、思考、生活"/>
                 <outline htmlUrl="http://gaocegege.com/Blog" xmlUrl="http://gaocegege.com/Blog/rss.xml" type="rss" description="江湖小虾米" text="高策"/>
             </outline>
-            <outline htmlUrl="http://dtysky.moe" xmlUrl="http://dtysky.moe/feeds/Life" type="rss" description="自由地看待世界，真诚地走向死亡" text="dtysky|一个行者的轨迹"/>
-            <outline htmlUrl="http://blog.farmostwood.net" xmlUrl="http://blog.farmostwood.net/feed" type="rss" description="" text="木遥的窗子"/>
-            <outline htmlUrl="https://github.com/yihong0618/gitblog" xmlUrl="https://raw.githubusercontent.com/yihong0618/gitblog/master/feed.xml" type="rss" description="" text="yihong0618's gitblog"/>
-            <outline htmlUrl="https://rollingstarky.github.io/" xmlUrl="https://www.starky.ltd/atom.xml" type="rss" description="我的全部道路，就是从孤独走向人间" text="StarryLand"/>
-            <outline htmlUrl="https://laike9m.com/blog/rss" xmlUrl="https://laike9m.com/blog/rss/" type="rss" description="Update on laike9m blog's articles." text="laike9m's blog"/>
-            <outline htmlUrl="https://www.blackglory.me/" xmlUrl="https://www.blackglory.me/rss/" type="rss" description="It's nothing" text="BlackGlory"/>
-            <outline htmlUrl="http://mednoter.com" xmlUrl="https://mednoter.com/feed.xml" type="rss" description="一个程序员" text="吕小荣"/>
-            <outline htmlUrl="https://meditic.com" xmlUrl="https://meditic.com/feed" type="rss" description="meditic的博客" text="meditic的博客"/>
-            <outline htmlUrl="http://www.collaborativefund.com" xmlUrl="http://feeds.feedburner.com/collabfund" type="rss" description="Collaborative Fund is a leading source of capital for entrepreneurs pushing the world forward." text="Collaborative Fund"/>
-            <outline htmlUrl="https://pythonhunter.org/" xmlUrl="https://pythonhunter.org/feed/audio.xml" type="rss" description=" 《捕蛇者说》是一档以编程为主题的聊天节目。我们会聊聊编程、程序员和 Python。 " text="捕蛇者说"/>
-            <outline htmlUrl="https://yinwang1.wordpress.com" xmlUrl="https://yinwang1.wordpress.com/feed/" type="rss" description="" text="王垠的草稿本"/>
-            <outline htmlUrl="https://jhuo.ca/" xmlUrl="https://jhuo.ca/index.xml" type="rss" description="Recent content on HuoJu's BLOG" text="HuoJu's BLOG"/>
-            <outline htmlUrl="https://code2048.com/" xmlUrl="https://code2048.com/index.xml" type="rss" description="Recent content on 神秘的程序员们" text="神秘的程序员们"/>
-            <outline htmlUrl="https://interconnected.blog/" xmlUrl="https://interconnected.blog/rss/" type="rss" description="Internet's only bilingual newsletter on the intersections of tech, business, money, geopolitics, and US-Asia relations. New post every week by Kevin Xu (@kevinsxu)" text="Interconnected"/>
-            <outline htmlUrl="https://tech.youzan.com/" xmlUrl="https://tech.youzan.com/rss/" type="rss" description="Thoughts, stories and ideas." text="有赞技术团队"/>
-            <outline htmlUrl="http://blog.cleancoder.com/" xmlUrl="https://blog.cleancoder.com/atom.xml" type="rss" description="" text="The Clean Code Blog"/>
-            <outline htmlUrl="https://erdong.site/" xmlUrl="https://erdong.site/atom.xml" type="rss" description="苦练七十二变，笑对八十一难。" text="Erdong’ Blog"/>
-            <outline htmlUrl="https://www.hankcs.com" xmlUrl="http://www.hankcs.com/feed/" type="rss" description="自然语言处理、机器学习算法" text="码农场"/>
-            <outline htmlUrl="https://diygod.me/" xmlUrl="https://diygod.me/atom.xml" type="rss" description="" text="Hi, DIYgod"/>
-            <outline htmlUrl="https://zhaopeng.me/" xmlUrl="https://zhaopeng.me/index.php/feed/" type="rss" description="技术也是一门手艺" text="手艺人赵鹏"/>
-            <outline htmlUrl="https://pingcap.com/blog-cn/" xmlUrl="https://pingcap.com/zh/blog/index.xml" type="rss" description="Recent content in Blog-cns on SQL at Scale" text="Blog-cns on MySQL at Scale"/>
-            <outline htmlUrl="HTTPS://strikefreedom.top" xmlUrl="https://strikefreedom.top/rss.xml" type="rss" description="Live fast. Die young. Be wild. Have fun." text="潘少的 BLOG"/>
-            <outline htmlUrl="https://coolshell.cn" xmlUrl="https://coolshell.cn/feed" type="rss" description="享受编程和技术所带来的快乐 - Coding Your Ambition" text="酷 壳 – CoolShell"/>
-            <outline htmlUrl="https://blog.wokanxing.info/" xmlUrl="https://blog.wokanxing.info/feed" type="rss" description="坚持·厚道·平常心" text="我看行之Feed"/>
-            <outline htmlUrl="https://www.kawabangga.com" xmlUrl="https://www.kawabangga.com/feed" type="rss" description="无法自制的人得不到自由。" text="卡瓦邦噶！"/>
-            <outline htmlUrl="https://maiyang.me/" xmlUrl="https://maiyang.me/index.xml" type="rss" description="Recent content on 茶歇驿站 - Gopher, OpenSource Fans, 成长之路有我相伴。" text="茶歇驿站 - Gopher, OpenSource Fans, 成长之路有我相伴。"/>
-            <outline htmlUrl="https://robberphex.com/" xmlUrl="https://robberphex.com/atom.xml" type="rss" description="" text="Robert's Blog"/>
-            <outline htmlUrl="https://program-think.blogspot.com/" xmlUrl="https://feeds2.feedburner.com/programthink" type="rss" description="" text="编程随想的博客"/>
-            <outline htmlUrl="http://blog.kongfy.com" xmlUrl="http://blog.kongfy.com/feed/" type="rss" description="good good code, day day up!" text="Kongfy's Blog"/>
-            <outline htmlUrl="http://www.shuizilong.com/house" xmlUrl="http://www.shuizilong.com/house/feed/" type="rss" description="... : &quot;...アッカリ～ン . .. . &quot; .. ." text="某岛"/>
-            <outline htmlUrl="https://leonson.me/" xmlUrl="https://leonson.me/feed.xml" type="rss" description="Leonson&amp;#039;s personal blog" text="浮云游子意 Floating Cloud on Journey"/>
-            <outline htmlUrl="https://www.mobingtu.com" xmlUrl="https://www.mobingtu.com/feed/" type="rss" description="我随便写写，您随便看看。" text="墨冰土"/>
             <outline htmlUrl="https://blog.henix.info/" xmlUrl="https://blog.henix.info/rss2.0.xml" type="rss" description="henix 的个人网站" text="遥远的街市"/>
             <outline htmlUrl="https://imzm.im" xmlUrl="https://imzm.im/feed/" type="rss" description="以有涯随无涯" text="陈仓颉"/>
             <outline htmlUrl="https://terminus2049.github.io/" xmlUrl="https://terminus2049.github.io/atom.xml" type="rss" description="" text="端点星"/>
@@ -136,7 +146,7 @@
             <outline htmlUrl="https://www.feidaoboke.com/" xmlUrl="https://www.feidaoboke.com/feed.php" type="rss" description="独立的个人博客" text="飞刀博客"/>
             <outline htmlUrl="http://iamsujie.com" xmlUrl="http://iamsujie.com/feed/" type="rss" description="——  成长中的产品经理，期待和同学们一起，用好产品改变世界~" text="人人都是产品经理——iamsujie"/>
             <outline htmlUrl="https://blog.huoding.com" xmlUrl="https://blog.huoding.com/feed" type="rss" description="多研究些问题，少谈些主义。" text="火丁笔记"/>
-            <outline htmlUrl="http://macshuo.com" xmlUrl="http://macshuo.com/?feed=rss2" type="rss" description="关注技术和人文" text="MacTalk-池建强的随想录"/>
+            <outline htmlUrl="https://macshuo.com" xmlUrl="http://macshuo.com/?feed=rss2" type="rss" description="关注技术和人文" text="MacTalk-池建强的随想录"/>
             <outline htmlUrl="https://zhuchangsile.xyz/" xmlUrl="https://zhuchangsile.xyz/feed/audio.xml" type="rss" description=" 中文世界中与器乐摇滚有关的资料和讨论都太少了。
 
 《主唱死了》由活跃于上海地下音乐现场的 B 哥和佳杰创立并主持，内容聚焦于与器乐摇滚有关的乐队、唱片、现场等；通过这档谈话节目，希望能为各位新老乐迷提供聆听指南及值得探讨的话题，为中国地下器乐摇滚场景增添更多时鲜内容。
@@ -183,7 +193,7 @@ Instagram，微博，公众号，Patreon，爱发电：「主唱死了」 " text
             <outline htmlUrl="https://xbeta.info" xmlUrl="https://xbeta.info/feed" type="rss" description="IT义工的个人博客: 善用佳软= (善意+善于)应用优秀软件 xbeta= x(未知数)+β(改进测试版)" text="善用佳软"/>
             <outline htmlUrl="https://nishuang.net" xmlUrl="https://nishuang.net/feed/" type="rss" description="" text="倪爽设计工作室"/>
             <outline htmlUrl="https://www.coolblood.cn" xmlUrl="https://www.coolblood.cn/?feed=rss2" type="rss" description="人脑太复杂,时间过得久,记下来才是最真实的......" text="拾风"/>
-            <outline htmlUrl="https://www.codedump.info/" xmlUrl="https://www.codedump.info/index.xml" type="rss" description="Recent content in codedump的网络日志 on codedump的网络日志" text="codedump的网络日志"/>
+            <outline htmlUrl="https://www.codedump.info/" xmlUrl="https://www.codedump.info/index.xml" type="rss" description="Recent content on codedump的网络日志" text="codedump的网络日志"/>
             <outline htmlUrl="https://chienlungcheung.github.io/" xmlUrl="https://chienlungcheung.github.io/atom.xml" type="rss" description="Be the change you wish to see in the world." text="programatrix"/>
             <outline htmlUrl="https://xiang578.com/" xmlUrl="https://xiang578.com/atom.xml" type="rss" description="" text="算法花园"/>
             <outline htmlUrl="https://oldj.net" xmlUrl="https://oldj.net/feed/" type="rss" description="老杰的博客" text="oldj's blog"/>
@@ -200,7 +210,6 @@ Instagram，微博，公众号，Patreon，爱发电：「主唱死了」 " text
             <outline htmlUrl="https://antfu.me/" xmlUrl="https://antfu.me/feed.xml" type="rss" description="Anthony Fu' Blog" text="Anthony Fu"/>
             <outline htmlUrl="https://blog.openacid.com/" xmlUrl="https://blog.openacid.com/feed.xml" type="rss" description="分布式研究小院." text="OpenACID Blog"/>
             <outline htmlUrl="https://paugram.com/" xmlUrl="https://paugram.com/feed/" type="rss" description="Still single, still lonely." text="保罗的小宇宙"/>
-            <outline htmlUrl="http://chinese.catchen.me/" xmlUrl="http://feeds.feedburner.com/CatChen/Chinese" type="rss" description="" text="Cat in Chinese"/>
             <outline htmlUrl="http://catcoding.me/" xmlUrl="https://catcoding.me/atom.xml" type="rss" description="" text="程序员的喵"/>
             <outline htmlUrl="https://blog.mayandev.top/" xmlUrl="https://mayandev.top/atom.xml" type="rss" description="有趣的灵魂" text="明远的自留地"/>
             <outline htmlUrl="https://mrcroxx.github.io/" xmlUrl="https://mrcroxx.github.io/index.xml" type="rss" description="Welcome to MrCroxx's Blog." text="叉鸽 MrCroxx 的博客"/>
@@ -212,7 +221,6 @@ Instagram，微博，公众号，Patreon，爱发电：「主唱死了」 " text
             <outline htmlUrl="https://shidenggui.com" xmlUrl="https://shidenggui.com/feeds" type="rss" description="Shidenggui's blog" text="Shidenggui's blog"/>
             <outline htmlUrl="https://4ark.me/" xmlUrl="https://4ark.me/atom.xml" type="rss" description="" text="4Ark × Blog"/>
             <outline htmlUrl="https://blog.guyskk.com/" xmlUrl="https://blog.guyskk.com/feed.xml" type="rss" description="Guyskk的博客 | 聊技术，谈生活，分享我的作品" text="Guyskk的博客"/>
-            <outline htmlUrl="https://www.decohack.com" xmlUrl="https://www.decohack.com/feed" type="rss" description="独立开发者灵感周刊" text="Decohack"/>
             <outline htmlUrl="http://home.wangjianshuo.com/cn" xmlUrl="http://home.wangjianshuo.com/cn/feed" type="rss" description="《旅行的艺术》是本好书" text="王建硕"/>
             <outline htmlUrl="https://yufan.me" xmlUrl="https://yufan.me/feed/" type="rss" description="诗与梦想的远方" text="且听书吟"/>
             <outline htmlUrl="http://coke.do/" xmlUrl="https://s3.amazonaws.com/revue/accounts/rss_feeds/000/080/117/original/rss_feed_80117.xml?1648859406" type="rss" description="简短实用的效率方法，健康习惯，思维模式" text="可乐"/>
@@ -220,12 +228,14 @@ Instagram，微博，公众号，Patreon，爱发电：「主唱死了」 " text
             <outline htmlUrl="https://2d2d.io/" xmlUrl="https://2d2d.io/feed.xml" type="rss" description="专注于探讨全球 To-D 领域相关产品、创业公司、融资等资讯的专栏杂志。" text="TO-D 杂志"/>
         </outline>
         <outline text="newsletter">
+            <outline htmlUrl="https://www.decohack.com" xmlUrl="https://www.decohack.com/feed" type="rss" description="独立开发者灵感周刊" text="Decohack"/>
             <outline htmlUrl="https://www.ezindie.com/weekly" xmlUrl="https://www.ezindie.com/feed/rss.xml" type="rss" description="让技术变现，做可持续盈利的产品" text="让小产品的独立变现更简单 - ezindie.com"/>
-            <outline htmlUrl="http://weekly.codelc.com/" xmlUrl="https://s3.amazonaws.com/revue/accounts/rss_feeds/000/413/468/original/rss_feed_413468.xml" type="rss" description="💌 这是由 lcomplete 每周发送的 newsletter，包含 1 个深度话题和若干效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 等，感谢你的阅读！
+            <outline htmlUrl="http://weekly.codelc.com/" xmlUrl="https://s3.amazonaws.com/revue/accounts/rss_feeds/000/413/468/original/rss_feed_413468.xml" type="rss" description="💌 这是由 lcomplete 发送的 newsletter，每周包含 1 个深度话题和若干效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 等，感谢你的阅读！
 所有的原文都放在 &lt;a href=&quot;https://github.com/lcomplete/TechShare&quot; rel=&quot;nofollow&quot;&gt;https://github.com/lcomplete/TechShare&lt;/a&gt; 。" text="野生架构师"/>
             <outline htmlUrl="https://www.workspaces.xyz" xmlUrl="https://www.workspaces.xyz/feed" type="rss" description="Bringing you inside the workspaces of inspiring creatives. Delivered to your inbox every Saturday and Sunday morning. 
 " text="Workspaces"/>
             <outline htmlUrl="https://discuss-cn.bestxtools.com/" xmlUrl="https://discuss-cn.bestxtools.com/atom/t/weekly/discussions" type="rss" description="weekly 标签新帖" text="weekly 标签新帖"/>
+            <outline htmlUrl="https://anyway.fm" xmlUrl="https://anyway.fm/rss.xml" type="rss" description="由 UI 设计师 JJ Ying 和 Leon Gao 主播的 podcast，主题包括但不限于视觉设计，入选 2015 年 Apple 最佳播客榜单。Anyway.FM 是两个闷骚男抒发对设计热情的地方、Anyway.FM 是两个老男人吐槽世界的地方、Anyway.FM 也是一对好基友想把自己的见解分享给更多人的地方。" text="Anyway.FM 设计杂谈"/>
         </outline>
         <outline text="集合">
             <outline htmlUrl="https://www.techug.com" xmlUrl="https://www.techug.com/feed" type="rss" description="程序员、编程语言、软件开发、编程技术" text="程序师"/>
