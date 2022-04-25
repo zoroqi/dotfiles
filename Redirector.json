@@ -1,0 +1,74 @@
+{
+    "createdBy": "Redirector v3.5.3",
+    "createdAt": "2022-04-25T08:23:57.135Z",
+    "redirects": [
+        {
+            "description": "Example redirect, try going to http://example.com/anywordhere",
+            "exampleUrl": "http://example.com/some-word-that-matches-wildcard",
+            "exampleResult": "https://google.com/search?q=some-word-that-matches-wildcard",
+            "error": null,
+            "includePattern": "http://example.com/*",
+            "excludePattern": "",
+            "patternDesc": "Any word after example.com leads to google search for that word.",
+            "redirectUrl": "https://google.com/search?q=$1",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "简书",
+            "exampleUrl": "https://www.jianshu.com/go-wild?ac=2&url=https%3A%2F%2Fherbertograca.com%2F2019%2F08%2F12%2Fdocumenting-software-architecture%2F",
+            "exampleResult": "https://herbertograca.com/2019/08/12/documenting-software-architecture/",
+            "error": null,
+            "includePattern": "https://www.jianshu.com/go-wild?.*?url=(.*)",
+            "excludePattern": "$1",
+            "patternDesc": "",
+            "redirectUrl": "$1",
+            "patternType": "R",
+            "processMatches": "urlDecode",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "知乎",
+            "exampleUrl": "https://link.zhihu.com/?target=https%3A//www.jianguoyun.com/",
+            "exampleResult": "https://www.jianguoyun.com/",
+            "error": null,
+            "includePattern": "https://link.zhihu.com/?.*?target=(.*)",
+            "excludePattern": "$1",
+            "patternDesc": "",
+            "redirectUrl": "$1",
+            "patternType": "R",
+            "processMatches": "urlDecode",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "Infoq",
+            "exampleUrl": "https://xie.infoq.cn/link?target=https%3A%2F%2Fmaheshba.bitbucket.io%2Fblog%2F2021%2F10%2F19%2F42Things.html",
+            "exampleResult": "https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html",
+            "error": null,
+            "includePattern": "https://.*.infoq.cn/.*?target=(.*)",
+            "excludePattern": "$1",
+            "patternDesc": "",
+            "redirectUrl": "$1",
+            "patternType": "R",
+            "processMatches": "urlDecode",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        }
+    ]
+}
