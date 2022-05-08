@@ -2,7 +2,7 @@
 <opml version="1.0">
     <head>
         <title>Vienna Subscriptions</title>
-        <dateCreated>2022-04-27 13:23:52 +0000</dateCreated>
+        <dateCreated>2022-05-08 08:07:08 +0000</dateCreated>
     </head>
     <body>
         <outline text="新闻">
@@ -10,14 +10,13 @@
             <outline htmlUrl="http://www.ftchinese.com/" xmlUrl="http://www.ftchinese.com/rss/feed" type="rss" description=" FT中文网每日新闻 " text="FT中文网_英国《金融时报》(Financial Times)"/>
             <outline htmlUrl="http://www.dgtle.com" xmlUrl="https://www.dgtle.com/rss/dgtle.xml" type="rss" description="分享美好数字生活" text="数字尾巴"/>
             <outline htmlUrl="https://www.iplaysoft.com" xmlUrl="https://feed.iplaysoft.com/" type="rss" description="软件改变生活" text="异次元软件世界"/>
-            <outline htmlUrl="https://jp.techcrunch.com" xmlUrl="https://jp.techcrunch.com/feed/" type="rss" description="国内外のスタートアップとテクノロジーの最新ニュース（テッククランチ・ジャパン）" text="TechCrunch Japan"/>
             <outline htmlUrl="https://techcrunch.com" xmlUrl="https://techcrunch.com/feed/" type="rss" description="Startup and Technology News" text="TechCrunch"/>
             <outline htmlUrl="https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=" xmlUrl="https://www.ifanr.com/feed" type="rss" description="让未来触手可及" text="爱范儿"/>
             <outline htmlUrl="http://www.dapenti.com" xmlUrl="http://www.dapenti.com/blog/rss2.asp" type="rss" description="喷嚏网-阅读、发现和分享：8小时外的健康生活!" text="喷嚏网----阅读、发现和分享：8小时外的健康生活！"/>
             <outline htmlUrl="http://www.bbcchinese.com" xmlUrl="http://feeds.bbci.co.uk/zhongwen/simp/rss.xml" type="rss" description="BBC Chinese - 主页" text="BBC Chinese - 主页"/>
             <outline htmlUrl="http://cn.nikkei.com/" xmlUrl="https://cn.nikkei.com/rss.html" type="rss" description="日经中文网官方网站。日经中文网是日本经济新闻社的中文财经网站。提供日本、中国、欧美财经金融信息、商务、企业、高科技报道、评论和专栏。" text="日经中文网"/>
             <outline htmlUrl="https://wanqu.co/issues/1370?s=rss" xmlUrl="https://wanqu.co/feed/" type="rss" description="
-            今天是湾区日报运营第2821天，阅读本期所有文章需19分钟。
+            今天是湾区日报运营第2832天，阅读本期所有文章需19分钟。
             
         " text="湾区日报第1214期 2018/07/20"/>
             <outline htmlUrl="https://linux.cn/" xmlUrl="https://linux.cn/rss.xml" type="rss" description="Linux 中国◆开源社区" text="Linux 中国◆开源社区"/>
@@ -107,6 +106,7 @@
                 <outline htmlUrl="https://www.scarsu.com/" xmlUrl="https://www.scarsu.com/atom.xml" type="rss" description="不要标榜，去行动😃" text="ScarSu"/>
                 <outline htmlUrl="https://maskray.me/blog/" xmlUrl="https://maskray.me/blog/atom.xml" type="rss" description="" text="MaskRay"/>
                 <outline htmlUrl="https://ljf.com" xmlUrl="https://ljf.com/feed/" type="rss" description="" text="LJF.COM"/>
+                <outline htmlUrl="https://weichen.blog/" xmlUrl="https://weichen.blog/index.xml" type="rss" description="Recent content on 炜晨" text="炜晨"/>
             </outline>
             <outline text="semiannually">
                 <outline htmlUrl="https://lutaonan.com/" xmlUrl="https://lutaonan.com/rss.xml" type="rss" description="Randy is blogging about life, tech and music." text="Randy's Blog"/>
@@ -166,7 +166,7 @@
                 <outline htmlUrl="https://geelaw.blog/?utm_source=feed&amp;utm_medium=rss" xmlUrl="https://geelaw.blog/rss.xml" type="rss" description="The 50 latest entries of Gee Law’s personal blog." text="Gee Law’s Blog"/>
                 <outline htmlUrl="https://funnyjs.com" xmlUrl="https://funnyjs.com/feed/" type="rss" description="苏莉安的技术个人站" text="Funny JS"/>
                 <outline htmlUrl="https://aifreedom.com" xmlUrl="https://aifreedom.com/feed" type="rss" description="Just feel free as in freedom" text="aifreedom"/>
-                <outline htmlUrl="https://s5s5.me" xmlUrl="http://s5s5.me/feed" type="rss" description="本站是基于人类交互的，您的想象决定了我们的应用！" text="[米随随] s5s5"/>
+                <outline htmlUrl="https://s5s5.me" xmlUrl="https://s5s5.me/feed" type="rss" description="本站是基于人类交互的，您的想象决定了我们的应用！" text="[米随随] s5s5"/>
                 <outline htmlUrl="https://gongm.in" xmlUrl="http://feeds.feedburner.com/bfishadow" type="rss" description="blog 2k10-20" text="大智若鱼"/>
                 <outline htmlUrl="https://techsingular.net" xmlUrl="https://techsingular.net/feed/" type="rss" description="You are what you program." text="技术奇异点"/>
                 <outline htmlUrl="https://diygod.me/" xmlUrl="https://diygod.me/atom.xml" type="rss" description="" text="Hi, DIYgod"/>
@@ -191,7 +191,7 @@
                 <outline htmlUrl="https://yufan.me" xmlUrl="https://yufan.me/feed/" type="rss" description="诗与梦想的远方" text="且听书吟"/>
             </outline>
             <outline text="longlong">
-                <outline htmlUrl="http://linroid.com/" xmlUrl="http://linroid.com/atom.xml" type="rss" description="为小而美的应用奋斗!" text="linroid"/>
+                <outline htmlUrl="http://linroid.com/" xmlUrl="https://linroid.com/atom.xml" type="rss" description="为小而美的应用奋斗!" text="linroid"/>
                 <outline htmlUrl="http://smalltalk.xdite.net" xmlUrl="http://feeds.feedburner.com/xdite/smalltalk" type="rss" description="" text="smalltalk"/>
                 <outline htmlUrl="https://wuzhiwei.net" xmlUrl="http://wuzhiwei.net/feed/" type="rss" description="Thinking, Coding &amp;&amp; Writing" text="Tim's Blog"/>
                 <outline htmlUrl="https://bindog.github.io/" xmlUrl="http://bindog.github.io/feed.xml" type="rss" description="技术博客" text="bindog study"/>
@@ -238,6 +238,7 @@ Instagram，微博，公众号，Patreon，爱发电：「主唱死了」 " text
             <outline htmlUrl="https://www.ezindie.com/weekly" xmlUrl="https://www.ezindie.com/feed/rss.xml" type="rss" description="让技术变现，做可持续盈利的产品" text="让小产品的独立变现更简单 - ezindie.com"/>
             <outline htmlUrl="https://anyway.fm" xmlUrl="https://anyway.fm/rss.xml" type="rss" description="由 UI 设计师 JJ Ying 和 Leon Gao 主播的 podcast，主题包括但不限于视觉设计，入选 2015 年 Apple 最佳播客榜单。Anyway.FM 是两个闷骚男抒发对设计热情的地方、Anyway.FM 是两个老男人吐槽世界的地方、Anyway.FM 也是一对好基友想把自己的见解分享给更多人的地方。" text="Anyway.FM 设计杂谈"/>
             <outline htmlUrl="https://pinfive.today" xmlUrl="https://pinfive.today/@skyue/feed/" type="rss" description="" text="SKYue's Reading"/>
+            <outline htmlUrl="https://www.getrevue.co/profile/thaddeusjiang" xmlUrl="https://s3.amazonaws.com/revue/accounts/rss_feeds/000/458/065/original/rss_feed_458065.xml?1651840517" type="rss" description="分享一些工作经验、日本生活体验以及读书笔记等等。" text="蒋继发的《每周分享》"/>
         </outline>
         <outline text="集合">
             <outline htmlUrl="https://blogs.microsoft.com/ai" xmlUrl="https://blogs.microsoft.com/ai/feed/" type="rss" description="" text="The AI Blog"/>
