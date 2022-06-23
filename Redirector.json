@@ -1,6 +1,6 @@
 {
     "createdBy": "Redirector v3.5.3",
-    "createdAt": "2022-04-25T08:23:57.135Z",
+    "createdAt": "2022-05-28T07:13:40.420Z",
     "redirects": [
         {
             "description": "Example redirect, try going to http://example.com/anywordhere",
@@ -64,6 +64,40 @@
             "redirectUrl": "$1",
             "patternType": "R",
             "processMatches": "urlDecode",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "oschina",
+            "exampleUrl": "https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fbagder%2Funcurled",
+            "exampleResult": "https://github.com/bagder/uncurled",
+            "error": null,
+            "includePattern": "https://.*.oschina.net/.*?GoToLink\\?url=(.*)",
+            "excludePattern": "$1",
+            "patternDesc": "",
+            "redirectUrl": "$1",
+            "patternType": "R",
+            "processMatches": "urlDecode",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "m-wiki",
+            "exampleUrl": "https://zh.m.wikipedia.org/zh-hans/猫",
+            "exampleResult": "https://zh.wikipedia.org/wiki/猫",
+            "error": null,
+            "includePattern": "https://zh.m.wikipedia.org/.*?/(.*)",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://zh.wikipedia.org/wiki/$1",
+            "patternType": "R",
+            "processMatches": "noProcessing",
             "disabled": false,
             "grouped": false,
             "appliesTo": [
