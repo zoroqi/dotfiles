@@ -19,3 +19,4 @@ alias ,openapp='~/my_sh/dotfiles/mac-openapp.sh'
 alias ,cman=_cman
 alias ,cmans=_cmans
 alias ,mdsearch='~/my_sh/dotfiles/search.sh'
+alias ,starsfind=_mystars_search_by_topic
