@@ -1,7 +1,7 @@
 {
     "color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
-    "font_size": 28,
-    "font_face":"Monaco",
+    "font_face":"InconsolataGo",
+    "font_size": 35,
     "tab_size": 4,
     "translate_tabs_to_spaces": true,
     "expand_tabs_on_save": true,
@@ -19,3 +19,4 @@
     "vintage_ctrl_keys": true,
     "scroll_context_lines": 5
 }
+
