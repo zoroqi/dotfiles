@@ -1,6 +1,7 @@
 字体使用的是 [InconsolataGo](https://www.levien.com/type/myfonts/inconsolata.html)
 
-测试字符, 判断字符是否等宽
+测试字符是否等宽.
+当前字体是一个实现了中文和英文长度等宽的字体(中文是两个英文字符宽).
 ```
 0123456789 0123456789 0123456789 0123
 abcdefghij klmnopqrst uvwxyzabcd efgh
@@ -21,6 +22,6 @@ AÄBCDEFGHI JKLMNOÖPQR STUÜVWXYZẞ AÄBC
 ぶべぼぱぴ ぷぺぽガギ グゲゴザジ ズゼ
 ゾダヂヅデ ドバビブベ ボパピプペ ポョ
 ゃゅょャュ
-，。、《》 【】、「」 ？；‘：“| ·-
+，。、《》 【】、「」 ？；‘：“ | ·-
 =~！@# ￥%…&* （）——+
 ```
