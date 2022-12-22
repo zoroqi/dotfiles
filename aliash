@@ -1,9 +1,10 @@
 alias dus='du -sh'
 alias dud='du -h -d'
+
 alias d='open -a "IntelliJ IDEA.app" .'
 alias sub='open -a "Sublime Text.app" '
-alias typora='open -a "Typora.app" '
 alias o='open .'
+
 alias treen='tree -N -f -h'
 alias treel='tree -N -f -h -L'
 alias dockerstart='open -a Docker.app'
@@ -20,3 +21,7 @@ alias ,cman=_cman
 alias ,cmans=_cmans
 alias ,mdsearch='~/my_sh/dotfiles/search.sh'
 alias ,starsfind=_mystars_search_by_topic
+
+alias ,proxy18='export http_proxy=socks5://127.0.0.1:1080 https_proxy=socks5://127.0.0.1:1080 all_proxy=socks5://127.0.0.1:1080'
+alias ,proxy48='export http_proxy=http://127.0.0.1:4871 https_proxy=http://127.0.0.1:4871 all_proxy=socks5://127.0.0.1:4871'
+alias ,unproxy='unset http_proxy;unset https_proxy;unset all_proxy'

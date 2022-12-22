@@ -1,4 +1,17 @@
+## mac os
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+## vscode
+.vscode
+
+## fleet
+.fleet
 
 ## IntelliJ
 .idea/
