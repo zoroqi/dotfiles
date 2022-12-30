@@ -16,9 +16,11 @@
 	smf = submodule foreach
 	r = remote -v
 	d = diff
+	dc = diff --cached
 	dt = icdiff
 	dv = difftool
 	ds = diff --stat
+	dsc = diff --stat --cached
 	discard = checkout --
 [user]
 [core]
