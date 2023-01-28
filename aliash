@@ -4,6 +4,7 @@ alias dud='du -h -d'
 alias d='open -a "IntelliJ IDEA.app" .'
 alias sub='open -a "Sublime Text.app" '
 alias o='open .'
+alias tailf='tail -f'
 
 alias treen='tree -N -f -h'
 alias treel='tree -N -f -h -L'
