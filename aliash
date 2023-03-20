@@ -3,6 +3,7 @@ alias dud='du -h -d'
 
 alias d='open -a "IntelliJ IDEA.app" .'
 alias sub='open -a "Sublime Text.app" '
+alias vs='open -a "Visual Studio Code.app" .'
 alias o='open .'
 alias tailf='tail -f'
 
@@ -23,6 +24,7 @@ alias ,cmans=_cmans
 alias ,mdsearch='~/my_sh/dotfiles/search.sh'
 alias ,starsfind=_mystars_search_by_topic
 alias ,cal=chinese-cal
+alias ,t2s=notes2t
 
 alias ,proxy18='export http_proxy=socks5://127.0.0.1:1080 https_proxy=socks5://127.0.0.1:1080 all_proxy=socks5://127.0.0.1:1080'
 alias ,proxy48='export http_proxy=http://127.0.0.1:4871 https_proxy=http://127.0.0.1:4871 all_proxy=socks5://127.0.0.1:4871'

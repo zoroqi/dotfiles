@@ -39,3 +39,11 @@ set shiftwidth=4
 set so=5
 set dy=uhex
 set fileformats=unix
+
+"vim内部编码
+set encoding=utf-8
+" set current file encoding
+set fileencoding=utf-8
+"按照utf-8 without bom，utf-8，顺序识别打开文件
+set fileencodings=ucs-bom,utf-8,gbk,gb2312,cp936,gb18030,big5,shift-jis,euc-jp,enc-kr
+

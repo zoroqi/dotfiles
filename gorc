@@ -1,6 +1,7 @@
 export GOROOT=~/pkg/go
 export GOPATH=~/work/golang
 #export GOPROXY=https://goproxy.io
-export GOPROXY=https://proxy.golang.com.cn,direct
+export GOPROXY=https://goproxy.io,direct
+#export GOPROXY=https://proxy.golang.com.cn,direct
 export GO111MODULE=on
 export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
