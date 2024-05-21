@@ -18,10 +18,10 @@ alias lS='ls -Salh'
 alias lSr='ls -Salhr'
 alias gti='git'
 
-alias ,openapp='~/my_sh/dotfiles/mac-openapp.sh'
+alias ,openapp='~/pkg/dotfiles/mac-openapp.sh'
 alias ,cman=_cman
 alias ,cmans=_cmans
-alias ,mdsearch='~/my_sh/dotfiles/search.sh'
+alias ,mdsearch='~/pkg/dotfiles/search.sh'
 alias ,starsfind=_mystars_search_by_topic
 alias ,cal=chinese-cal
 alias ,t2s=notes2t
