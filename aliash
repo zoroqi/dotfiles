@@ -1,5 +1,6 @@
 alias dus='du -sh'
 alias dud='du -h -d'
+alias echn='echo -n'
 
 alias d='open -a "IntelliJ IDEA.app" .'
 alias sub='open -a "Sublime Text.app" '
