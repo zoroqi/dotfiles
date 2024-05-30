@@ -11,7 +11,7 @@
 	cld = clone --depth
 	lg = log --graph --pretty=format:'%Cred%h%Creset -%Cgreen(%ai %ar) %C(bold blue)<%an>%Creset %s %C(yellow)%d%Creset' --abbrev-commit
 	lgs = log --graph --pretty=format:'%Cred%h%Creset -%Cgreen(%ai %ar) %C(bold blue)<%an>%Creset %s %C(yellow)%d%Creset' --abbrev-commit --stat
-	lgn = log --graph --pretty=format:'%Cred%h%Creset -%Cgreen(%ai %ar) %C(bold blue)<%an>%Creset %s %C(yellow)%d%Creset' --abbrev-commit -n
+	lgn = !git --no-pager log --graph --pretty=format:'%Cred%h%Creset -%Cgreen(%ai %ar) %C(bold blue)<%an>%Creset %s %C(yellow)%d%Creset' --abbrev-commit -n
 	lgns = log --graph --pretty=format:'%Cred%h%Creset -%Cgreen(%ai %ar) %C(bold blue)<%an>%Creset %s %C(yellow)%d%Creset' --abbrev-commit --stat -n
 	smf = submodule foreach
 	r = remote -v
