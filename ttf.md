@@ -5,6 +5,7 @@
 1LlIi
 oO0QD
 G6
+|丨│// 分别是, 竖线; 中文的 gun; asciiflow 中扩展 ascii 中的竖线
 ```
 
 测试字符是否等宽.

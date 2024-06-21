@@ -1,5 +1,7 @@
 brew install haskell-stack
 
+brew install sequel-ace
+
 brew install watch
 
 brew install wget
