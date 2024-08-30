@@ -2,7 +2,7 @@ alias dus='du -sh'
 alias dud='du -h -d'
 alias echn='echo -n'
 
-alias d='open -a "IntelliJ IDEA.app" .'
+alias d='open -a "IntelliJ IDEA Ultimate.app" .'
 alias sub='open -a "Sublime Text.app" '
 alias vs='open -a "Visual Studio Code.app" .'
 alias o='open .'
