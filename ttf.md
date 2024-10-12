@@ -2,12 +2,16 @@
 
 不宜分辨字符
 ```
-1LlIi
+1lIiL
 oO0QD
 G6
 B8
+9gq
+Vv
+Uu
 EF
-|丨│// 分别是, 竖线; 中文的 gun; asciiflow 中扩展 ascii 中的竖线
+|丨│ // 分别是, 竖线; 中文的 gun; asciiflow 中扩展 ascii 中的竖线
+-一—─ // 分别是, 横线, 中文 yi, 破折號, asciiflow 中扩展 ascii 中的横线
 ```
 
 测试字符是否等宽.

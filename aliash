@@ -36,3 +36,6 @@ alias ,unproxy='unset http_proxy;unset https_proxy;unset all_proxy'
 alias ,ss='snippet --root ~/snippets'
 alias ,sse='snippet --root ~/snippets e'
 alias ,ssc='snippet --root ~/snippets c'
+
+alias ,key='gokey --db ~/.config/gokey.kdbx '
+alias ,keyget='gokey --db ~/.config/gokey.kdbx get -c '

@@ -7,7 +7,7 @@
 	fe = fetch
 	b = branch
 	# [Git - git-for-each-ref Documentation](https://git-scm.com/docs/git-for-each-ref/en)
-	bb = !git --no-pager branch --format '%(committerdate:iso) %(objectname:short) %(align:28,left)%(if)%(HEAD)%(then)%(color:bold green)* %(else)%(color:dim green)  %(end)%(refname:short)%(end)%(color:reset) %(align:35,left)[%(color:cyan)%(upstream:trackshort) %(upstream:short)%(color:reset)]%(end) %(align:10,right)%(authorname)%(end) %(contents:lines=1)' --sort -committerdate
+	bb = !git --no-pager branch --format '%(committerdate:iso) %(objectname:short) %(align:28,left)%(if)%(HEAD)%(then)%(color:bold green)* %(else)%(color:dim green)  %(end)%(refname:short)%(end)%(color:reset) %(align:35,left)[%(color:cyan)%(upstream:trackshort) %(upstream:short)%(color:reset)]%(end) %(align:15,right)%(authorname)%(end) %(contents:lines=1)' --sort -committerdate
 	bnm = branch --format '%(committerdate:iso) %(if)%(HEAD)%(then)%(color:bold green)* %(refname:short) %(else)  %(refname:short) %(end)' --sort -committerdate --no-merged
 	pl = pull
 	cld = clone --depth
