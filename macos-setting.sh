@@ -1,6 +1,9 @@
 # https://github.com/einverne/dotfiles/blob/master/macos/init_mac.sh
 # https://github.com/mathiasbynens/dotfiles/blob/master/.macos
 
+# 启动 rosetta 方便运行老的程序
+/usr/sbin/softwareupdate --install-rosetta --agree-to-license
+
 # Finder: show all filename extensions
 defaults write NSGlobalDomain AppleShowAllExtensions -bool true
 
