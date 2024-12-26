@@ -8,3 +8,4 @@ export JAVA_HOME=~/pkg/java/Contents/Home
 export MAVEN_PATH=~/pkg/maven
 #export GRADLE_PATH=~/pkg/gradle
 export PATH=$JAVA_HOME/bin:$MAVEN_PATH/bin:$GRADLE_PATH/bin:~/.local/bin:$PATH
+. "$HOME/.cargo/env"
