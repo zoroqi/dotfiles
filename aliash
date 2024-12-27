@@ -1,11 +1,6 @@
 alias dus='du -sh'
 alias dud='du -h -d'
 alias echn='echo -n'
-
-alias d='open -a "IntelliJ IDEA Ultimate.app" .'
-alias sub='open -a "Sublime Text.app" '
-alias vs='open -a "Visual Studio Code.app" .'
-alias o='open .'
 alias tailf='tail -f'
 
 alias treen='tree -N -f -h'
@@ -19,7 +14,6 @@ alias lS='ls -Salh'
 alias lSr='ls -Salhr'
 alias gti='git'
 
-alias ,openapp='~/pkg/dotfiles/mac-openapp.sh'
 alias ,cman=_cman
 alias ,cmans=_cmans
 alias ,mdsearch='~/pkg/dotfiles/search.sh'
@@ -39,3 +33,14 @@ alias ,ssc='snippet --root ~/snippets c'
 
 alias ,key='gokey --db ~/.config/gokey.kdbx '
 alias ,keyget='gokey --db ~/.config/gokey.kdbx get -c '
+
+## mac
+
+alias d='open -a "IntelliJ IDEA Ultimate.app" .'
+alias sub='open -a "Sublime Text.app" '
+alias vs='open -a "Visual Studio Code.app" .'
+alias o='open .'
+alias ,openapp='~/pkg/dotfiles/mac-openapp.sh'
+
+alias ,copy='pbcopy'
+alias ,paste='pbpaste'
