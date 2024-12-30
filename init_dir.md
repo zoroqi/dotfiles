@@ -6,6 +6,7 @@ mkdir -p ~/work/java
 mkdir -p ~/work/golang
 mkdir -p ~/download_app
 
+# clone 到 pkg 目录
 git clone git@github.com:zoroqi/dotfiles.git; cd dotfiles; git submodule update --init
 git clone --depth=1 git@github.com:jaywcjlove/linux-command.git command
 
@@ -14,21 +15,12 @@ git clone --depth=1 git@github.com:jaywcjlove/linux-command.git command
 # 鼠须管 Squirrel: ~/Library/Rime/，也可以通过“系统输入法菜单／鼠须管／用户设置”打开。
 git clone git@github.com:zoroqi/rime-config.git Rime
 
-git clone git@github.com:zoroqi/pls.git
-git clone git@github.com:phodal/coca.git
-git clone git@github.com:jesseduffield/horcrux.git
-git clone git@github.com:zoroqi/gokey.git
-git clone git@github.com:zoroqi/ember.git
-git clone git@github.com:hankcs/HanLP.git
-git clone git@github.com:zoroqi/chinese-cal.git
-git clone git@github.com:skyzh/mini-lsm.git
-git clone git@github.com:zoroqi/hamster.git
-git clone git@github.com:zoroqi/snippet.git
-
 # 根目录
 ln -sf ~/pkg/dotfiles/aliash .alias
 ln -sf ~/pkg/dotfiles/my.zsh-theme my.zsh-theme
 ln -sf ~/pkg/dotfiles/bash_profile .bash_profile
+
+# 主要注意 export ZSH 目录, 可能需要修改
 ln -sf ~/pkg/dotfiles/zshrc .zshrc
 ln -sf ~/pkg/dotfiles/vimrc .vimrc
 ln -sf .vimrc .ideavimrc
@@ -44,3 +36,15 @@ ln -sf mvn_pkg/apache-maven-3.9.9 maven
 # submodel 切换到主干
 gitf 'git c master || true'
 gitf 'git c main || true'
+
+git clone git@github.com:zoroqi/pls.git
+git clone git@github.com:phodal/coca.git
+git clone git@github.com:jesseduffield/horcrux.git
+git clone git@github.com:zoroqi/gokey.git
+git clone git@github.com:zoroqi/ember.git
+git clone git@github.com:hankcs/HanLP.git
+git clone git@github.com:zoroqi/chinese-cal.git
+git clone git@github.com:skyzh/mini-lsm.git
+git clone git@github.com:zoroqi/hamster.git
+git clone git@github.com:zoroqi/snippet.git
+

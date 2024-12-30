@@ -7,7 +7,3 @@
 https://mirrors.ustc.edu.cn/homebrew-core.git
 https://mirrors.aliyun.com/homebrew/homebrew-core.git
 ```
-
-初始安装
-
-ack,htop,tree,telnet

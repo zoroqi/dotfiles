@@ -19,7 +19,8 @@ brew install wget
 brew install htop
 brew install btop
 
-brew install haskell-stack
+# diff 工具
+brew install git-delta
 
 # mysql 客户端
 brew install sequel-ace
@@ -28,8 +29,7 @@ brew install pandoc
 # pandoc 实现 md 转 pdf 用的
 brew install --cask mactex
 
-
-# 选择行安装
+# 选择性安装
 brew install protobuf
 
 brew install grpc
@@ -40,6 +40,4 @@ brew install act
 # 代码复杂度分析
 pip install lizard
 
-# diff工具
-brew install icdiff
 brew install rocksdb

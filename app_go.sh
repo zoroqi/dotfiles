@@ -15,6 +15,8 @@ go install github.com/josephburnett/jd@latest
 
 go install github.com/jesseduffield/horcrux@latest
 
+go install github.com/jesseduffield/lazygit@latest
+
 # 个人项目
 go install github.com/zoroqi/chinese-cal@latest
 

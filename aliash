@@ -13,6 +13,7 @@ alias gitf='git submodule foreach '
 alias lS='ls -Salh'
 alias lSr='ls -Salhr'
 alias gti='git'
+alias lgit='lazygit'
 
 alias ,cman=_cman
 alias ,cmans=_cmans

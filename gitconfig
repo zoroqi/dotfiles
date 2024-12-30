@@ -18,24 +18,36 @@
 	smf = submodule foreach
 	r = remote -v
 	d = diff
+	dv = !git -c delta.side-by-side=false diff
 	dc = diff --cached
-	dt = icdiff
-	dv = difftool
 	ds = diff --stat
 	dsc = diff --stat --cached
-	discard = checkout --
 	undo = reset --soft HEAD^
 [user]
 [core]
 	quotepath = false
 	excludesfile = ~/pkg/dotfiles/gitignore
+	pager = delta
 [icdiff]
 	options = --highlight --line-numbers
-[diff]
-	tool = vimdiff
-[difftool]
-	prompt = No
 [init]
 	defaultBranch = main
 [pull]
 	rebase = false
+[interactive]
+	diffFilter = delta --color-only
+[delta]
+	navigate = true
+	line-numbers = true
+	side-by-side = true
+	minus-style = red bold auto
+	plus-style = blue bold auto
+	features = decorations
+	syntax-theme = Dracula
+[merge]
+	conflictstyle = zdiff3
+[delta "decorations"]
+	commit-decoration-style = bold yellow box ul
+	file-style = bold yellow ul
+	file-decoration-style = none
+	hunk-header-decoration-style = cyan box ul

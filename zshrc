@@ -26,7 +26,8 @@ plugins=(
 
 source $ZSH/oh-my-zsh.sh
 source ~/.bash_profile
-HISTSIZE=100000
+export HISTSIZE=10000
+export SAVEHIST=10000
 
 # User configuration
 
