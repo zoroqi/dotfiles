@@ -41,3 +41,7 @@ brew install act
 pip install lizard
 
 brew install rocksdb
+
+brew install gnupg
+
+brew install fzf

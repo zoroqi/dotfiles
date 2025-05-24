@@ -1,3 +1,5 @@
+# 参考:
+#  [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
 [alias]
 	s = status -sb
 	ss = status
@@ -44,6 +46,8 @@
 	plus-style = blue bold auto
 	features = decorations
 	syntax-theme = Dracula
+[help]
+	autocorrect = prompt
 [merge]
 	conflictstyle = zdiff3
 [delta "decorations"]
@@ -51,3 +55,15 @@
 	file-style = bold yellow ul
 	file-decoration-style = none
 	hunk-header-decoration-style = cyan box ul
+[branch]
+	sort = -committerdate
+[diff]
+	algorithm = histogram
+	colorMoved = plain
+	mnemonicPrefix = true
+	renames = true
+[tag]
+	# 将点状版本号视为一系列整数值以进行排序。相信我，只要启用此功能即可。
+	sort = version:refname
+[fetch]
+	pruneTags = true
