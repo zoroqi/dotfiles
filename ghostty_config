@@ -1,9 +1,7 @@
-# 字体
 font-family = InconsolataGo
 font-size = 19
 font-thicken = true
 
-# 配色
 theme = iTerm2 Tango Dark
 bold-is-bright = true
 
@@ -34,22 +32,29 @@ cursor-color = #ffffff
 cursor-text = #000000
 cursor-style = block
 cursor-style-blink = false
-shell-integration-features = cursor
+shell-integration-features = false
 
 grapheme-width-method = "unicode"
 adjust-cell-width = 0%
 
-scrollback-limit = 50000
-
-window-padding-x = 15
-window-padding-y = 15
-window-save-state = "always"
+scrollback-limit = 1000000000
+window-padding-x = 10
+window-padding-y = 10
+window-save-state = never
+window-theme = system
 
 copy-on-select = clipboard
 
+working-directory = home
+window-inherit-working-directory = false
+macos-window-shadow = false
 
-# 快捷键
+unfocused-split-opacity = 0.7
+split-divider-color = #ffffff
+
 keybind = super+left=previous_tab
 keybind = super+right=next_tab
 
 #keybind = global:alt+grave_accent=toggle_quick_terminal
+
+auto-update = check
