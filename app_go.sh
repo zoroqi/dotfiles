@@ -26,3 +26,5 @@ go install github.com/zoroqi/gokey/cmd/gokey@latest
 
 # 依赖查看工具
 go install github.com/zoroqi/dependency-graph@latest
+
+go install github.com/zoroqi/regex-find@latest

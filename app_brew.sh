@@ -45,3 +45,5 @@ brew install rocksdb
 brew install gnupg
 
 brew install fzf
+
+brew install exiftool
