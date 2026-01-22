@@ -7,8 +7,16 @@ mkdir -p ~/work/golang
 mkdir -p ~/download_app
 
 # clone 到 pkg 目录
-git clone git@github.com:zoroqi/dotfiles.git; cd dotfiles; git submodule update --init
+git clone git@github.com:zoroqi/dotfiles.git; cd dotfiles; git submodule update --init;
+mkdir .local;
+cp local_template/* .local/;
+cd ..
+
 git clone --depth=1 git@github.com:jaywcjlove/linux-command.git command
+
+# mac 添加 ACL 防止删除
+
+chmod +a "$(whoami) deny delete" dotfiles
 
 # 中州韵 ibus-rime: ~/.config/ibus/rime/
 # 小狼毫 Weasel: %APPDATA%\Rime，也可以通过“开始菜单＼小狼毫输入法＼用户文件夹”打开。
@@ -20,16 +28,21 @@ ln -sf ~/pkg/dotfiles/aliash .alias
 ln -sf ~/pkg/dotfiles/my.zsh-theme my.zsh-theme
 ln -sf ~/pkg/dotfiles/bash_profile .bash_profile
 
-# 主要注意 export ZSH 目录, 可能需要修改
+# 注意 export ZSH 目录, 可能需要修改
 ln -sf ~/pkg/dotfiles/zshrc .zshrc
 ln -sf ~/pkg/dotfiles/vimrc .vimrc
 ln -sf .vimrc .ideavimrc
 ln -sf ~/pkg/dotfiles/gitconfig .gitconfig
+ln -sf ~/pkg/dotfiles/export_profile .export_profile
+
+# ghossty 路径 https://ghostty.org/docs/config
+# 非 mac 平台目录 $XDG_CONFIG_HOME/ghostty
+
+cd $HOME/Library/Application\ Support/com.mitchellh.ghostty/
+ln -sf ~/pkg/dotfiles/ghostty_config config
 
 # pkg 目录
 ln -sf go_pkg/go1.xx.x go
-ln -sf go_pkg/go1.xx.x go
-ln -sf jdk_pkg/jdk-2x.x.x.jdk jdk
 ln -sf jdk_pkg/jdk-2x.x.x.jdk jdk
 ln -sf mvn_pkg/apache-maven-3.9.9 maven
 
@@ -47,4 +60,5 @@ git clone git@github.com:zoroqi/chinese-cal.git
 git clone git@github.com:skyzh/mini-lsm.git
 git clone git@github.com:zoroqi/hamster.git
 git clone git@github.com:zoroqi/snippet.git
+
 

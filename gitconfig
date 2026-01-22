@@ -25,7 +25,6 @@
 	ds = diff --stat
 	dsc = diff --stat --cached
 	undo = reset --soft HEAD^
-[user]
 [core]
 	quotepath = false
 	excludesfile = ~/pkg/dotfiles/gitignore
@@ -67,3 +66,5 @@
 	sort = version:refname
 [fetch]
 	pruneTags = true
+[include]
+	path = ~/pkg/dotfiles/.local/gitconfig

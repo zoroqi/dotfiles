@@ -38,7 +38,7 @@ alias ,keyget='gokey --db ~/.config/gokey.kdbx get -c '
 
 ## mac
 
-alias d='open -a "IntelliJ IDEA Ultimate.app" .'
+alias d='open -a "IntelliJ IDEA.app" .'
 alias sub='open -a "Sublime Text.app" '
 alias vs='open -a "Visual Studio Code.app" .'
 alias o='open .'
@@ -46,3 +46,7 @@ alias ,openapp='~/pkg/dotfiles/mac-openapp.sh'
 
 alias ,copy='pbcopy'
 alias ,paste='pbpaste'
+
+## local
+
+source ~/pkg/dotfiles/.local/aliash

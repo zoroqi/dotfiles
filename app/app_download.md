@@ -15,6 +15,7 @@
 - 下载工具 [Motrix](https://motrix.app/download)
 - 字体 [LxgwBright-Code](https://github.com/lxgw/LxgwBright-Code/releases) 下载 LxgwBrightCode.7z
 - 输入法 [RIME](https://rime.im/download/)
+- [Ghostty](https://ghostty.org/download)
 
 ## 编程语言
 
@@ -26,7 +27,7 @@
 
 ## mac
 
-- [iTerm2](https://iterm2.com/downloads.html)
+- ~~[iTerm2](https://iterm2.com/downloads.html)~~
 - [Homebrew](https://brew.sh/)
 - [Vienna RSS – The Free and Open-Source RSS/Atom Reader for macOS](https://www.vienna-rss.com/)
 - [iStat Menus](https://bjango.com/mac/istatmenus/)
