@@ -49,4 +49,4 @@ alias ,paste='pbpaste'
 
 ## local
 
-source ~/pkg/dotfiles/.local/aliash
+source ~/pkg/dotfiles/.local/aliases
