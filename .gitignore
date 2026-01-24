@@ -1,8 +1,2 @@
 # 本地配置
 .local
-
-# gemini 配置使用白名单逻辑
-gemini/*
-!gemini/settings.json
-!gemini/policies/auto-saved.toml
-

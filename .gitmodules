@@ -4,3 +4,6 @@
 [submodule "KuZuTeTuMaChi"]
 	path = KuZuTeTuMaChi
 	url = git@github.com:zoroqi/KuZuTeTuMaChi.git
+[submodule "agentconfig"]
+	path = agentconfig
+	url = git@github.com:zoroqi/agentconfig.git

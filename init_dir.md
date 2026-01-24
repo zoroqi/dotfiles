@@ -27,6 +27,7 @@ git clone git@github.com:zoroqi/rime-config.git Rime
 ln -sf ~/pkg/dotfiles/aliash .alias
 ln -sf ~/pkg/dotfiles/my.zsh-theme my.zsh-theme
 ln -sf ~/pkg/dotfiles/bash_profile .bash_profile
+ln -sf ~/pkg/dotfiles/agentconfig/gemini .gemini
 
 # 注意 export ZSH 目录, 可能需要修改
 ln -sf ~/pkg/dotfiles/zshrc .zshrc
