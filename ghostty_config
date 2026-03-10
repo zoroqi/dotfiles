@@ -3,7 +3,7 @@ font-size = 19
 font-thicken = true
 
 theme = iTerm2 Tango Dark
-bold-is-bright = true
+bold-color = #ffffff
 
 background = #000000
 foreground = #feffff
@@ -32,29 +32,47 @@ cursor-color = #ffffff
 cursor-text = #000000
 cursor-style = block
 cursor-style-blink = false
+
 shell-integration-features = false
 
 grapheme-width-method = "unicode"
 adjust-cell-width = 0%
 
 scrollback-limit = 1000000000
+scrollbar = system
+
 window-padding-x = 10
 window-padding-y = 10
 window-save-state = never
-window-theme = system
 
 copy-on-select = clipboard
 
+# 初始目錄
 working-directory = home
 window-inherit-working-directory = false
-macos-window-shadow = false
+tab-inherit-working-directory = false
+split-inherit-working-directory = true
 
-unfocused-split-opacity = 0.7
+# 分屏
+unfocused-split-opacity = 0.65
 split-divider-color = #ffffff
+
+# 快捷鍵
 
 keybind = super+left=previous_tab
 keybind = super+right=next_tab
 
 #keybind = global:alt+grave_accent=toggle_quick_terminal
+
+# mac 配置
+
+macos-titlebar-style = tabs
+macos-hidden = never
+
+# 其他
+
+notify-on-command-finish = unfocused
+notify-on-command-finish-action = bell
+notify-on-command-finish-after = 30s
 
 auto-update = check

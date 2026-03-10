@@ -28,3 +28,6 @@ go install github.com/zoroqi/gokey/cmd/gokey@latest
 go install github.com/zoroqi/dependency-graph@latest
 
 go install github.com/zoroqi/regex-find@latest
+
+# 使用類 SQL 操作 csv 文件
+go install github.com/mithrandie/csvq@latest
