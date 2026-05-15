@@ -6,3 +6,4 @@ export XDG_RUNTIME_DIR="/run/user/$UID"
 
 export REGEX_FIND_HISTORY_FILE="$XDG_CONFIG_HOME/regex-find.history"
 
+source ~/pkg/dotfiles/.local/export

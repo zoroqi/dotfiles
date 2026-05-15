@@ -16,7 +16,6 @@ brew install watch
 
 brew install wget
 
-brew install htop
 brew install btop
 
 # diff 工具
@@ -47,3 +46,7 @@ brew install gnupg
 brew install fzf
 
 brew install exiftool
+
+brew install cmake
+
+brew install ffmpeg
